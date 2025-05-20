@@ -1,0 +1,1001 @@
+articulated_course_year,hs_grad_year,hs_grad_status,gender,ethnicity,high_school,subject,course,hs_course_grade,final_exam_grade,credit_recommended,credit_status,id,took_mcc_course_as_non_hs_student,took_mcc_course_in_same_discipline,earned_degree,earned_coa,earned_cop
+2022-2023,2024,Graduate,Female,Asian,San Dieguito Academy,ART,AUTO102,B,A,Yes,Awarded,8579,Not Applicable,No,Not Applicable,No,Not Applicable
+2020-2021,2024,Not Yet a Graduate,Male,Hispanic,Canyon Crest Academy,BUS,NURS151,A,D,Yes,Awarded,12080,No,Not Applicable,Yes,Not Applicable,No
+2020-2021,2022,Graduate,Male,White,Torrey Pines High School,BUS,NURS151,C,A,Yes,Awarded,12347,No,No,No,No,No
+2020-2021,2022,Graduate,Female,Asian,Torrey Pines High School,AUTO,MAT110,A,A,No,Awarded,5283,No,No,No,No,No
+2020-2021,2022,Graduate,Male,Hispanic,Oceanside High School,NURS,NURS151,A,A,No,Denied,7696,No,No,No,No,No
+2021-2022,2022,Graduate,Female,Hispanic,La Costa Canyon High School,NURS,BUS132,B,A,Yes,Awarded,8652,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,Hispanic,San Dieguito Academy,BUS,HORT166,A,F,No,Denied,4397,No,No,No,No,No
+2022-2023,2026,Graduate,Male,White,Poway High School,BUS,CS101,C,A,Yes,Awarded,1926,No,No,No,No,Not Applicable
+2022-2023,2023,Graduate,Male,Two or More Races,Canyon Crest Academy,NURS,BUS130,A,B,Yes,Awarded,10612,Yes,No,No,No,No
+2022-2023,2023,Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS130,A,C,Yes,Awarded,6039,No,No,No,No,No
+2022-2023,2027,Not Yet a Graduate,Male,White,San Dieguito Academy,HORT,BUS132,A,B,Yes,Awarded,6779,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2020-2021,2022,Graduate,Male,Two or More Races,San Dieguito Academy,ACCT,BUS132,A,B,Yes,Awarded,3728,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,Asian,Carlsbad High School,BUS,AUTO102,A,A,Yes,Awarded,12545,No,No,No,Yes,Not Applicable
+2020-2021,2020,Graduate,Male,White,San Dieguito Academy,CS,CS101,A,A,Yes,Awarded,9177,No,No,No,Not Applicable,No
+2021-2022,2023,Graduate,Male,Asian,Altus Schools,NURS,BUS130,A,A,Yes,Awarded,12224,No,Not Applicable,No,No,Not Applicable
+2020-2021,2022,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,CS101,B,B,Yes,Awarded,8702,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,ART251,C,A,Yes,Awarded,6669,Not Applicable,No,No,No,Not Applicable
+2021-2022,2023,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,12077,No,No,No,No,No
+2020-2021,2020,Graduate,Female,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,11708,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,AUTO,ART251,A,A,No,Awarded,10865,Yes,No,No,No,No
+2022-2023,2023,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,HORT,BUS132,C,A,Yes,Awarded,10684,No,No,No,No,No
+2021-2022,2025,Graduate,Male,Two or More Races,Oceanside High School,BUS,ACCT158,A,A,No,Awarded,11946,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Hispanic,Torrey Pines High School,NURS,AUTO102,A,B,Yes,Awarded,7747,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2025,Graduate,Male,White,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,6934,Not Applicable,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Hispanic,Carlsbad High School,NURS,NURS151,B,C,Yes,Awarded,756,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2025,Not Yet a Graduate,Female,Hispanic,El Camino High School,BUS,BUS120,A,A,Yes,Awarded,4593,No,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,B,A,Yes,Awarded,6852,Yes,No,No,No,No
+2021-2022,2025,Graduate,Male,Hispanic,Carlsbad High School,BUS,CHLD299,A,A,No,Awarded,6595,Not Applicable,Not Applicable,No,Not Applicable,Yes
+2020-2021,2021,Graduate,Female,White,Torrey Pines High School,AUTO,FILM101,A,B,Yes,Awarded,12239,No,No,No,No,No
+2021-2022,2023,Graduate,Female,White,Sage Creek High School,BUS,BUS132,A,A,Yes,Awarded,7162,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Canyon Crest Academy,ACCT,ACCT158,A,B,Yes,Denied,7346,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Female,Unknown/Unreported,Torrey Pines High School,BUS,BUS120,A,B,Yes,Awarded,7179,No,No,No,No,No
+2020-2021,2023,Graduate,Unknown/Unreported,Asian,Sage Creek High School,BUS,BUS130,A,,Yes,Awarded,3445,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Asian,Altus Schools,ACCT,ACCT158,B,B,Yes,Awarded,2311,No,Yes,Not Applicable,Not Applicable,No
+2021-2022,2022,Graduate,Male,White,Oceanside High School,KINE,CSIT101,,,No,Awarded,693,Yes,No,No,Not Applicable,No
+2021-2022,2025,Graduate,Female,White,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,9611,Yes,No,Not Applicable,Not Applicable,No
+2021-2022,2024,Graduate,Male,Hispanic,La Costa Canyon High School,MAT,DESN100,A,F,Yes,Awarded,10987,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,Unknown/Unreported,Torrey Pines High School,BUS,AUTO130,A,A,Yes,Awarded,7580,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2022,Graduate,Female,Asian,Carlsbad High School,NURS,BUS132,A,B,Yes,Awarded,4185,No,No,No,No,Not Applicable
+2020-2021,2022,Graduate,Male,White,Canyon Crest Academy,ART,ART251,A,A,Yes,Awarded,6341,Yes,No,No,No,No
+2020-2021,2024,Graduate,Male,White,Torrey Pines High School,ART,HOSP100,A,A,Yes,Awarded,6060,Not Applicable,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,White,Tri-City Christian School,HORT,MAT125,A,A,No,Denied,5855,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2024,Not Yet a Graduate,Unknown/Unreported,White,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,9720,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2024,Not Yet a Graduate,Male,Unknown/Unreported,Torrey Pines High School,MAP,ACCT101,A,B,No,Awarded,12771,Yes,No,Not Applicable,No,No
+2022-2023,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS130,A,A,Yes,Awarded,11512,Not Applicable,No,Not Applicable,Not Applicable,No
+2022-2023,2025,Graduate,Male,Hispanic,Sage Creek High School,MAT,BUS130,A,B,Yes,Awarded,33,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2021,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,9651,No,No,No,No,No
+2020-2021,2022,Not Yet a Graduate,Female,White,Torrey Pines High School,BUS,BUS120,A,D,No,Awarded,11610,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Female,Unknown/Unreported,El Camino High School,CS,CS111,A,A,Yes,Awarded,13552,No,No,No,Not Applicable,No
+2022-2023,2025,Not Yet a Graduate,Male,Two or More Races,La Costa Canyon High School,ART,BUS132,A,A,Yes,Awarded,7337,Not Applicable,No,No,Not Applicable,Not Applicable
+2021-2022,2025,Not Yet a Graduate,Male,Unknown/Unreported,Oceanside High School,BUS,BUS132,A,B,Yes,Awarded,8968,Yes,Yes,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Male,Two or More Races,Torrey Pines High School,CS,CS101,B,B,Yes,Awarded,4801,No,No,No,No,No
+2021-2022,2024,Graduate,Female,White,La Costa Canyon High School,ACCT,BUS120,A,A,No,Denied,2522,No,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Male,White,Mission Vista High School,BUS,ART251,A,A,Yes,Awarded,2547,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Asian,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,2853,Yes,Yes,Not Applicable,No,Not Applicable
+2021-2022,2024,Graduate,Male,Two or More Races,Torrey Pines High School,MAT,ART251,,A,Yes,Awarded,6409,No,No,No,No,No
+2020-2021,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,B,Yes,Awarded,11621,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2020-2021,2021,Graduate,Female,Unknown/Unreported,Torrey Pines High School,MAT,BUS132,A,A,Yes,Awarded,11429,No,No,No,No,No
+2020-2021,2021,Graduate,Unknown/Unreported,White,Carlsbad High School,CS,ACCT158,A,B,No,Awarded,3265,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Female,White,El Camino High School,BUS,BUS130,A,A,Yes,Awarded,10620,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Not Yet a Graduate,Male,Hispanic,San Dieguito Academy,BUS,BUS120,A,B,No,Awarded,2849,Yes,No,Not Applicable,No,Not Applicable
+2022-2023,2025,Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,A,A,No,Denied,10794,Not Applicable,Yes,Not Applicable,No,No
+2021-2022,2024,Graduate,Female,Two or More Races,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,5933,Not Applicable,No,No,No,Not Applicable
+2022-2023,2023,Graduate,Male,Unknown/Unreported,Carlsbad High School,DESN,HORT127,A,A,Yes,Awarded,8086,Not Applicable,No,No,No,No
+2020-2021,2023,Graduate,Female,Unknown/Unreported,Sage Creek High School,BUS,BUS132,C,A,Yes,Awarded,104,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,MAT110,A,A,Yes,Awarded,3873,Not Applicable,No,No,Not Applicable,Not Applicable
+2020-2021,2025,Graduate,Male,Hispanic,Sage Creek High School,NURS,BUS130,B,A,Yes,Awarded,6333,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,White,Canyon Crest Academy,HORT,MAP100,A,B,Yes,Awarded,3392,No,No,Not Applicable,Not Applicable,No
+2020-2021,2023,Graduate,Female,White,Torrey Pines High School,HORT,BUS132,B,B,Yes,Awarded,13736,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Black/African American,Sage Creek High School,NURS,BUS130,A,A,Yes,Awarded,11727,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Male,White,San Dieguito Academy,BUS,BUS130,A,B,Yes,Awarded,8923,Yes,No,No,Not Applicable,No
+2020-2021,2023,Not Yet a Graduate,Male,Two or More Races,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,13226,Not Applicable,Not Applicable,No,No,Not Applicable
+2022-2023,2024,Graduate,Female,Two or More Races,El Camino High School,NURS,BUS132,A,A,Yes,Awarded,145,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Asian,La Costa Canyon High School,BUS,ART251,A,A,Yes,Awarded,5662,Not Applicable,No,No,No,No
+2021-2022,2023,Graduate,Female,White,La Costa Canyon High School,NURS,BUS132,A,A,Yes,Awarded,13384,Yes,No,Not Applicable,Not Applicable,No
+2021-2022,2025,Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,9077,No,No,Not Applicable,No,Not Applicable
+2020-2021,2022,Graduate,Male,Black/African American,Torrey Pines High School,BUS,CS101,A,A,Yes,Denied,5146,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Female,White,Torrey Pines High School,MAT,BUS130,A,B,Yes,Awarded,2097,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2022,Graduate,Male,White,Torrey Pines High School,ACCT,BUS130,A,B,No,Awarded,775,No,No,No,No,No
+2020-2021,2025,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS130,A,A,Yes,Awarded,7542,No,No,Not Applicable,No,No
+2022-2023,2024,Not Yet a Graduate,Female,Black/African American,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,6990,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Male,White,Altus Schools,BUS,NURS151,A,A,Yes,Awarded,8368,No,No,No,No,No
+2020-2021,2022,Graduate,Female,White,Sage Creek High School,BUS,BUS132,A,B,No,Awarded,4190,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,HORT,ART251,B,A,Yes,Awarded,3863,No,No,Not Applicable,No,No
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,11566,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Asian,Torrey Pines High School,NURS,BUS132,A,A,Yes,Awarded,4508,Yes,No,Not Applicable,Not Applicable,No
+2020-2021,2023,Graduate,Male,White,Canyon Crest Academy,BUS,BUS132,A,B,Yes,Awarded,11921,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Unknown/Unreported,Hispanic,La Costa Canyon High School,HORT,MAT125,A,A,Yes,Awarded,9368,Not Applicable,Not Applicable,No,No,No
+2022-2023,2024,Graduate,Female,White,La Costa Canyon High School,AUTO,BUS130,A,F,Yes,Denied,9999,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,White,Torrey Pines High School,BUS,NURS151,B,B,Yes,Awarded,1568,Not Applicable,Not Applicable,No,Not Applicable,No
+2021-2022,2023,Graduate,Unknown/Unreported,Asian,Canyon Crest Academy,AUTO,ART251,,C,No,Awarded,5718,Yes,Not Applicable,No,No,Not Applicable
+2022-2023,2024,Not Yet a Graduate,Unknown/Unreported,Asian,Oceanside High School,BUS,BUS132,B,A,Yes,Denied,3635,Yes,Not Applicable,No,Not Applicable,No
+2020-2021,2022,Graduate,Female,Black/African American,Canyon Crest Academy,ACCT,ACCT158,,A,Yes,Awarded,6971,No,No,No,No,No
+2020-2021,2022,Not Yet a Graduate,Unknown/Unreported,White,Tri-City Christian School,ACCT,BUS120,A,C,No,Awarded,782,No,No,No,No,No
+2022-2023,2027,Not Yet a Graduate,Female,White,Torrey Pines High School,BUS,BUS120,B,B,Yes,Awarded,8159,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,6383,No,No,No,No,No
+2020-2021,2023,Graduate,Female,White,Altus Schools,ACCT,BUS120,A,A,Yes,Awarded,5293,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Hispanic,Torrey Pines High School,ACCT,BUS120,,A,No,Awarded,11944,No,No,No,No,No
+2020-2021,2025,Graduate,Male,Hispanic,Canyon Crest Academy,MAT,BUS132,A,B,Yes,Awarded,5318,Yes,No,No,No,No
+2021-2022,2023,Not Yet a Graduate,Female,Unknown/Unreported,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,781,No,No,Not Applicable,Not Applicable,No
+2020-2021,2024,Graduate,Male,Hispanic,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,2397,Yes,No,No,No,No
+2020-2021,2024,Graduate,Male,White,Canyon Crest Academy,CHLD,ACCT158,A,C,Yes,Awarded,2849,Not Applicable,No,No,Yes,No
+2020-2021,2022,Graduate,Male,White,Torrey Pines High School,BUS,NURS151,C,B,Yes,Awarded,11898,No,No,No,Not Applicable,No
+2022-2023,2025,Graduate,Male,Asian,La Costa Canyon High School,BUS,BUS120,A,A,No,Awarded,9251,Yes,Yes,No,No,No
+2022-2023,2024,Graduate,Female,White,Oceanside High School,ART,BUS130,A,D,Yes,Awarded,8078,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Female,Hispanic,Torrey Pines High School,AUTO,ART251,A,A,Yes,Awarded,9558,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,Hispanic,Canyon Crest Academy,ACCT,BUS120,A,A,Yes,Awarded,4844,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Female,Hispanic,Torrey Pines High School,ACCT,BUS120,A,A,Yes,Awarded,5977,Yes,No,Yes,No,No
+2021-2022,2023,Graduate,Male,Asian,Canyon Crest Academy,BUS,BUS120,B,,Yes,Denied,6056,No,Not Applicable,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,White,La Costa Canyon High School,BUS,BUS120,A,A,No,Awarded,906,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Graduate,Female,White,San Dieguito Academy,BUS,ACCT158,B,A,Yes,Denied,6476,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Unknown/Unreported,Two or More Races,Carlsbad High School,BUS,BUS132,A,A,Yes,Awarded,7561,Yes,No,No,No,Not Applicable
+2022-2023,2023,Graduate,Male,Two or More Races,Oceanside High School,BUS,ACCT158,C,C,Yes,Awarded,5993,Not Applicable,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,BUS132,A,B,Yes,Denied,9462,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Male,Hispanic,Oceanside High School,BUS,BUS120,A,A,Yes,Awarded,8076,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS132,A,A,Yes,Awarded,7074,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2022,Graduate,Male,White,Torrey Pines High School,BUS,KINE190,A,D,Yes,Awarded,9988,No,No,Not Applicable,No,No
+2022-2023,2026,Graduate,Male,Hispanic,La Costa Canyon High School,BUS,BUS120,B,B,Yes,Awarded,13052,No,Not Applicable,No,No,No
+2022-2023,2023,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,4013,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,Hispanic,Sage Creek High School,BUS,ACCT158,A,B,Yes,Awarded,9647,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2023,Graduate,Female,White,Torrey Pines High School,AUTO,BUS130,A,A,No,Awarded,5717,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Male,Asian,Oceanside High School,BUS,BUS130,A,A,Yes,Awarded,7659,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Female,Unknown/Unreported,San Dieguito Academy,BUS,BUS120,A,B,Yes,Awarded,7419,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Hispanic,La Costa Canyon High School,ART,HORT127,A,A,Yes,Awarded,48,No,No,No,No,No
+2020-2021,2025,Not Yet a Graduate,Male,White,El Camino High School,BUS,BUS120,A,A,Yes,Awarded,1130,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Male,White,Altus Schools,BUS,ACCT158,A,A,Yes,Awarded,6056,Yes,No,No,No,No
+2020-2021,2026,Not Yet a Graduate,Male,White,Canyon Crest Academy,FILM,DESN207,A,B,Yes,Awarded,13102,Yes,No,Not Applicable,Not Applicable,No
+2021-2022,2022,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS132,A,B,Yes,Awarded,12942,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Female,Asian,Torrey Pines High School,ACCT,BUS120,A,B,Yes,Awarded,7838,No,Not Applicable,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,2109,Yes,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,White,Oceanside High School,BUS,ACCT158,A,A,Yes,Awarded,1252,Not Applicable,Not Applicable,No,Not Applicable,No
+2021-2022,2024,Graduate,Male,Hispanic,El Camino High School,BUS,BUS130,B,A,Yes,Awarded,13274,No,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2026,Graduate,Male,Asian,Canyon Crest Academy,MAT,ART253,A,A,Yes,Awarded,3456,Yes,No,No,No,Not Applicable
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,BUS,NURS151,B,A,Yes,Awarded,6455,No,No,No,No,No
+2021-2022,2022,Graduate,Male,White,Sage Creek High School,ART,ART251,A,A,Yes,Awarded,12600,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Asian,Torrey Pines High School,AUTO,AUTO130,A,A,Yes,Awarded,11852,No,No,No,No,No
+2020-2021,2025,Graduate,Male,White,Altus Schools,ART,ART251,A,A,Yes,Awarded,8881,Yes,No,No,Not Applicable,No
+2020-2021,2023,Graduate,Male,Unknown/Unreported,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,681,No,No,No,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Female,White,Torrey Pines High School,NURS,BUS132,A,A,Yes,Awarded,9941,No,No,No,No,No
+2022-2023,2025,Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS132,A,A,No,Awarded,7890,No,No,No,No,No
+2020-2021,2023,Graduate,Female,White,San Dieguito Academy,BUS,ART251,A,A,Yes,Awarded,2242,No,Not Applicable,Not Applicable,No,No
+2020-2021,2021,Graduate,Male,White,Canyon Crest Academy,BUS,NURS151,A,A,Yes,Awarded,11734,No,No,No,No,No
+2022-2023,2025,Graduate,Male,Hispanic,Sage Creek High School,ART,MAT125,A,B,Yes,Awarded,12298,Not Applicable,No,No,No,Not Applicable
+2020-2021,2023,Graduate,Male,White,Sage Creek High School,BUS,AUTO102,C,B,Yes,Awarded,12926,Not Applicable,No,No,Not Applicable,No
+2022-2023,2024,Graduate,Male,Hispanic,Carlsbad High School,AUTO,MTEC110,A,,Yes,Awarded,3506,No,No,No,No,No
+2021-2022,2025,Graduate,Female,White,San Dieguito Academy,BUS,ACCT158,A,B,Yes,Awarded,5712,Yes,No,No,Not Applicable,No
+2020-2021,2025,Not Yet a Graduate,Male,Hispanic,Altus Schools,BUS,ACCT158,B,,Yes,Awarded,9292,No,No,Not Applicable,No,No
+2021-2022,2024,Graduate,Female,White,La Costa Canyon High School,ART,KINE190,A,A,No,Denied,12105,Yes,No,No,No,No
+2021-2022,2023,Graduate,Female,Hispanic,La Costa Canyon High School,NURS,BUS132,A,A,Yes,Awarded,10735,No,No,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Graduate,Female,White,La Costa Canyon High School,ACCT,BUS120,A,A,Yes,Awarded,2789,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Tri-City Christian School,AUTO,MAP100,A,A,Yes,Awarded,1731,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2023,Graduate,Female,White,Mission Vista High School,BUS,BUS130,A,A,Yes,Awarded,12741,Not Applicable,No,Not Applicable,No,No
+2021-2022,2021,Graduate,Male,White,La Costa Canyon High School,BUS,BUS130,D,A,Yes,Awarded,8293,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Carlsbad High School,BUS,BUS132,B,B,Yes,Awarded,2047,No,No,No,No,Not Applicable
+2021-2022,2022,Graduate,Female,Hispanic,Torrey Pines High School,NURS,AUTO102,A,A,Yes,Denied,12622,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,La Costa Canyon High School,MAP,ART251,A,A,Yes,Awarded,2426,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Male,Hispanic,Canyon Crest Academy,FILM,MAP100,N,A,Yes,Awarded,4669,Yes,No,No,Not Applicable,Not Applicable
+2021-2022,2024,Not Yet a Graduate,Male,White,San Dieguito Academy,BUS,BUS120,,A,No,Awarded,11285,Yes,No,Not Applicable,Not Applicable,No
+2020-2021,2025,Not Yet a Graduate,Unknown/Unreported,White,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,4419,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Male,White,Mission Vista High School,MAT,DESN100,F,A,Yes,Denied,10214,No,No,No,No,No
+2021-2022,2022,Graduate,Female,Two or More Races,Torrey Pines High School,BUS,NURS151,A,A,Yes,Awarded,11889,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,ACCT,ACCT158,B,A,Yes,Awarded,10750,No,No,No,No,No
+2021-2022,2023,Graduate,Female,Hispanic,Oceanside High School,BUS,DESN100,A,,Yes,Awarded,1216,No,Not Applicable,No,Not Applicable,No
+2020-2021,2024,Graduate,Female,Asian,Sage Creek High School,ART,ART251,A,A,Yes,Awarded,9580,No,No,No,No,No
+2022-2023,2025,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,6631,Not Applicable,No,Not Applicable,No,Not Applicable
+2021-2022,2026,Graduate,Male,Asian,San Dieguito Academy,NURS,MAT110,A,N,No,Awarded,4582,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Not Yet a Graduate,Male,White,Sage Creek High School,AUTO,BUS132,A,,No,Denied,108,Yes,No,Not Applicable,No,Not Applicable
+2021-2022,2024,Graduate,Male,Hispanic,Carlsbad High School,AUTO,MAT110,B,A,Yes,Denied,3406,No,No,No,No,No
+2022-2023,2022,Graduate,Unknown/Unreported,Middle Eastern or North African,La Costa Canyon High School,BUS,BUS130,A,A,Yes,Awarded,342,No,No,No,No,No
+2022-2023,2023,Graduate,Female,Hispanic,El Camino High School,ART,DESN100,A,A,Yes,Awarded,12974,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Female,Unknown,Torrey Pines High School,BUS,BUS130,A,F,Yes,Awarded,3680,Not Applicable,No,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Female,Unknown/Unreported,Sage Creek High School,NURS,BUS130,C,C,Yes,Awarded,3193,Yes,No,No,No,No
+2021-2022,2021,Graduate,Female,White,Sage Creek High School,DESN,KINE190,A,A,No,Awarded,1548,No,No,No,No,No
+2020-2021,2022,Graduate,Female,White,El Camino High School,BUS,BUS120,B,A,Yes,Awarded,13246,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Male,Unknown/Unreported,Torrey Pines High School,MAT,ART251,A,A,Yes,Awarded,5465,Not Applicable,Yes,No,Not Applicable,No
+2022-2023,2024,Graduate,Female,Asian,Mt. Carmel High School,BUS,BUS120,A,C,Yes,Awarded,10436,Not Applicable,Yes,Yes,Not Applicable,No
+2022-2023,2025,Graduate,Unknown/Unreported,White,La Costa Canyon High School,BUS,ACCT158,A,F,Yes,Awarded,6618,No,No,No,No,No
+2021-2022,2023,Graduate,Female,White,Carlsbad High School,BUS,BUS120,A,A,Yes,Denied,5713,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Hispanic,San Dieguito Academy,BUS,BUS120,A,N,Yes,Awarded,10697,Not Applicable,No,Not Applicable,No,No
+2021-2022,2023,Graduate,Female,Two or More Races,La Costa Canyon High School,DESN, ACCT101,A,A,Yes,Awarded,10522,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Female,White,Mt. Carmel High School,ACCT,BUS120,A,A,Yes,Awarded,9331,No,No,Not Applicable,No,No
+2021-2022,2024,Not Yet a Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,3529,Yes,Not Applicable,No,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Male,Asian,La Costa Canyon High School,CS,CS101,A,B,Yes,Awarded,11095,Not Applicable,No,No,No,No
+2022-2023,2022,Graduate,Female,Unknown,La Costa Canyon High School,ACCT,CS101,C,A,Yes,Denied,1401,No,No,No,No,No
+2020-2021,2022,Graduate,Female,White,La Costa Canyon High School,BUS,CS111,A,B,Yes,Denied,5470,Yes,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Canyon Crest Academy,CS,NURS151,A,A,No,Denied,3928,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,NURS151,B,B,Yes,Awarded,2697,Not Applicable,Not Applicable,No,Not Applicable,No
+2020-2021,2023,Graduate,Male,White,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,4051,No,Not Applicable,No,Not Applicable,No
+2021-2022,2024,Graduate,Female,Asian,Canyon Crest Academy,MAT,BUS130,A,B,Yes,Awarded,9480,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Male,White,San Dieguito Academy,CS,ACCT158,,A,Yes,Awarded,12773,Yes,Yes,No,No,No
+2021-2022,2021,Graduate,Male,Two or More Races,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,761,No,No,No,No,No
+2020-2021,2020,Graduate,Male,Two or More Races,San Dieguito Academy,AUTO,KINE190,B,C,Yes,Awarded,10681,No,No,No,No,No
+2022-2023,2023,Graduate,Unknown/Unreported,Unknown,Carlsbad High School,BUS,BUS120,A,,Yes,Awarded,7089,No,No,Not Applicable,No,Not Applicable
+2020-2021,2022,Graduate,Male,White,Carlsbad High School,BUS,BUS132,A,A,Yes,Awarded,10948,No,No,No,No,No
+2020-2021,2022,Not Yet a Graduate,Female,Two or More Races,La Costa Canyon High School,BUS,BUS130,A,A,Yes,Awarded,4511,Not Applicable,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Asian,Sage Creek High School,BUS,MAT110,A,A,Yes,Denied,4243,Not Applicable,Not Applicable,Yes,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Female,White,San Dieguito Academy,ART,MAT110,A,B,Yes,Awarded,4993,No,Yes,No,Not Applicable,No
+2021-2022,2021,Graduate,Male,Two or More Races,Torrey Pines High School,MAP,DESN207,A,A,Yes,Awarded,2925,No,No,No,No,No
+2021-2022,2021,Graduate,Female,White,Canyon Crest Academy,BUS,BUS130,A,A,Yes,Awarded,4689,No,No,No,No,No
+2020-2021,2021,Graduate,Male,White,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Awarded,2493,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Westview High School,BUS,NURS151,A,A,Yes,Awarded,136,Not Applicable,No,Not Applicable,Not Applicable,No
+2021-2022,2024,Graduate,Female,White,Canyon Crest Academy,ART,ART251,A,B,Yes,Awarded,9754,No,No,No,No,No
+2020-2021,2024,Graduate,Female,White,Altus Schools,AUTO,BUS130,A,A,Yes,Awarded,6135,Yes,No,Not Applicable,No,No
+2021-2022,2024,Not Yet a Graduate,Unknown/Unreported,White,Canyon Crest Academy,ART,BUS132,,A,No,Awarded,9886,No,No,No,No,No
+2021-2022,2025,Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,9657,No,No,No,Not Applicable,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,DESN,ART251,A,A,Yes,Awarded,1170,No,Yes,No,Not Applicable,Not Applicable
+2022-2023,2026,Not Yet a Graduate,Male,White,La Costa Canyon High School,CS,CS101,A,A,No,Awarded,6867,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Male,Two or More Races,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,11864,Yes,No,No,No,No
+2022-2023,2025,Graduate,Male,Two or More Races,El Camino High School,NURS,ART251,A,A,Yes,Awarded,329,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2024,Graduate,Female,White,San Dieguito Academy,ACCT,BUS120,A,C,Yes,Awarded,12026,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Asian,Torrey Pines High School,MAP,ART251,A,,Yes,Denied,11994,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS130,B,A,No,Denied,70,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,Hispanic,Torrey Pines High School,BUS,NURS151,A,A,Yes,Denied,7673,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2021-2022,2026,Graduate,Female,White,Westview High School,ART,KINE190,A,B,Yes,Awarded,8796,Yes,No,Not Applicable,No,No
+2021-2022,2021,Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS130,D,A,Yes,Awarded,11557,No,No,No,No,No
+2022-2023,2022,Graduate,Female,Two or More Races,Mission Vista High School,CS,CS101,D,A,Yes,Awarded,6965,No,No,No,No,No
+2021-2022,2023,Graduate,Female,Asian,Sage Creek High School,NURS,ART251,A,,Yes,Awarded,946,No,No,No,No,No
+2021-2022,2024,Graduate,Female,White,Torrey Pines High School,CS,BUS120,A,B,Yes,Awarded,7785,Yes,No,No,No,No
+2020-2021,2023,Graduate,Female,Hispanic,El Camino High School,BUS,BUS120,A,A,Yes,Denied,4300,No,No,No,No,No
+2020-2021,2023,Graduate,Female,Hispanic,Torrey Pines High School,MAT,AUTO102,A,A,Yes,Awarded,12670,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Asian,La Costa Canyon High School,BUS,ACCT158,A,A,No,Awarded,10731,Not Applicable,No,No,No,No
+2020-2021,2022,Not Yet a Graduate,Unknown/Unreported,Hispanic,Sage Creek High School,ART,MAT125,A,B,Yes,Awarded,9867,Not Applicable,Not Applicable,No,No,Not Applicable
+2020-2021,2022,Graduate,Male,Hispanic,Carlsbad High School,HORT,DESN100,A,A,No,Awarded,13502,No,No,No,No,No
+2020-2021,2022,Graduate,Male,White,Canyon Crest Academy,ART,AUTO130,A,A,Yes,Awarded,6036,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,BUS,BUS130,A,B,Yes,Awarded,3635,No,No,No,No,No
+2021-2022,2021,Graduate,Male,Unknown/Unreported,Sage Creek High School,CS,CS101,A,A,Yes,Denied,1850,Not Applicable,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,BUS,BUS132,A,A,Yes,Denied,9679,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Carlsbad High School,ART,DESN100,A,A,Yes,Awarded,6350,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Female,Two or More Races,La Costa Canyon High School,MAT,BUS130,A,A,Yes,Awarded,6254,Not Applicable,No,No,No,Not Applicable
+2021-2022,2024,Not Yet a Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,7404,Yes,No,Not Applicable,No,No
+2020-2021,2023,Graduate,Male,White,Sage Creek High School,BUS,DESN100,A,A,Yes,Awarded,9537,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,Hispanic,El Camino High School,BUS,BUS130,A,A,Yes,Awarded,6208,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Graduate,Female,Hispanic,Sage Creek High School,CS,ACCT158,B,B,Yes,Awarded,12335,No,No,No,No,No
+2020-2021,2022,Graduate,Female,Hispanic,Tri-City Christian School,AUTO,ART251,A,D,No,Awarded,11155,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,La Costa Canyon High School,MAP,ACCT101,A,A,Yes,Awarded,11765,Yes,No,No,Not Applicable,No
+2021-2022,2022,Graduate,Male,White,Oceanside High School,BUS,BUS130,A,B,Yes,Awarded,11208,Yes,No,No,No,No
+2020-2021,2024,Graduate,Unknown/Unreported,White,Torrey Pines High School,BUS,BUS130,B,A,Yes,Awarded,3859,Not Applicable,Not Applicable,Not Applicable,No,No
+2020-2021,2023,Graduate,Female,Two or More Races,Torrey Pines High School,BUS,BUS120,B,B,Yes,Awarded,7351,No,No,Not Applicable,No,No
+2022-2023,2024,Not Yet a Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,12577,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Female,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,7166,Not Applicable,Yes,No,Not Applicable,Not Applicable
+2021-2022,2026,Not Yet a Graduate,Male,Asian,Canyon Crest Academy,MAT,BUS120,A,A,Yes,Awarded,2047,Not Applicable,Not Applicable,Not Applicable,No,No
+2020-2021,2024,Graduate,Male,White,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,10820,No,No,No,No,No
+2021-2022,2022,Graduate,Male,White,San Dieguito Academy,BUS, ACCT101,A,A,Yes,Denied,9415,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Middle Eastern or North African,Torrey Pines High School,CS,CS101,C,A,Yes,Awarded,1499,No,No,No,No,No
+2021-2022,2024,Graduate,Unknown/Unreported,White,La Costa Canyon High School,ACCT,BUS120,A,A,Yes,Awarded,1166,No,No,No,No,No
+2022-2023,2024,Graduate,Unknown/Unreported,White,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,1214,Yes,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,FILM,HORT127,A,B,Yes,Awarded,5852,Not Applicable,No,No,No,Not Applicable
+2021-2022,2023,Graduate,Male,Middle Eastern or North African,Canyon Crest Academy,MAT,BUS132,B,B,Yes,Awarded,7157,Not Applicable,Not Applicable,No,No,No
+2022-2023,2025,Graduate,Female,Unknown/Unreported,El Camino High School,BUS,BUS132,A,A,Yes,Awarded,8830,No,Not Applicable,No,No,Not Applicable
+2022-2023,2026,Graduate,Female,White,Oceanside High School,BUS,BUS120,A,A,Yes,Awarded,7801,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Not Yet a Graduate,Male,Two or More Races,La Costa Canyon High School,MAT,BUS120,A,A,Yes,Denied,10544,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,El Camino High School,BUS,BUS132,B,A,Yes,Awarded,7367,No,No,No,No,Not Applicable
+2020-2021,2021,Graduate,Male,White,Torrey Pines High School,BUS,CS101,A,N,Yes,Awarded,9449,No,No,No,No,No
+2021-2022,2022,Graduate,Female,White,Canyon Crest Academy,ART,MAT125,B,A,Yes,Awarded,1480,No,Yes,No,No,No
+2021-2022,2023,Graduate,Female,White,Torrey Pines High School,BUS,NURS151,A,A,Yes,Denied,3915,Not Applicable,Not Applicable,No,No,No
+2022-2023,2026,Graduate,Male,White,Torrey Pines High School,BUS,ART251,A,A,Yes,Awarded,11225,Not Applicable,Not Applicable,No,No,Not Applicable
+2020-2021,2020,Graduate,Male,Hispanic,La Costa Canyon High School,BUS,AUTO130,A,A,Yes,Awarded,3777,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Torrey Pines High School,CS,CS101,A,A,Yes,Awarded,6045,Not Applicable,No,No,No,No
+2021-2022,2023,Graduate,Female,Asian,Torrey Pines High School,BUS,NURS151,A,B,Yes,Awarded,10669,Not Applicable,Yes,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Two or More Races,Canyon Crest Academy,AUTO,ART251,A,A,Yes,Awarded,8021,Not Applicable,Not Applicable,No,Yes,No
+2021-2022,2025,Graduate,Female,White,Torrey Pines High School,NURS,BUS120,A,A,Yes,Awarded,3778,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Graduate,Male,White,La Costa Canyon High School,ACCT,BUS120,A,A,No,Awarded,13047,No,Not Applicable,No,Not Applicable,No
+2020-2021,2023,Not Yet a Graduate,Female,Two or More Races,San Dieguito Academy,NURS,BUS120,C,B,Yes,Awarded,6447,Yes,No,No,No,No
+2022-2023,2025,Graduate,Female,White,Torrey Pines High School,BUS,CS101,A,A,No,Awarded,8979,No,No,Not Applicable,No,No
+2021-2022,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,NURS,NURS151,A,A,Yes,Awarded,4568,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2020,Graduate,Male,Unknown/Unreported,Sage Creek High School,BUS,BUS130,A,A,Yes,Denied,8439,Yes,No,No,No,No
+2020-2021,2021,Not Yet a Graduate,Female,Hispanic,Oceanside High School,BUS,NURS151,B,C,Yes,Awarded,2317,Yes,No,Not Applicable,Not Applicable,No
+2021-2022,2024,Not Yet a Graduate,Male,Asian,Tri-City Christian School,HORT,DESN100,A,A,Yes,Awarded,11381,No,No,No,No,Not Applicable
+2020-2021,2024,Graduate,Male,White,La Costa Canyon High School,HORT,ART251,A,B,Yes,Awarded,12060,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,CS111,,A,Yes,Awarded,9907,Not Applicable,No,No,No,No
+2020-2021,2025,Not Yet a Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,13048,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Female,Hispanic,La Costa Canyon High School,ART,MTEC110,A,A,Yes,Awarded,13065,No,No,No,No,No
+2021-2022,2021,Graduate,Male,Unknown/Unreported,San Dieguito Academy,BUS,NURS151,A,B,Yes,Awarded,1896,No,No,No,No,No
+2022-2023,2022,Graduate,Male,Two or More Races,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Denied,12362,Not Applicable,No,No,No,No
+2020-2021,2025,Graduate,Female,White,Canyon Crest Academy,KINE,NURS299,A,A,Yes,Awarded,3445,No,No,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2021,Graduate,Unknown/Unreported,White,Mission Vista High School,BUS,NURS151,A,C,Yes,Awarded,8773,No,No,No,No,No
+2021-2022,2023,Not Yet a Graduate,Male,Asian,Torrey Pines High School,BUS,BUS132,B,B,Yes,Awarded,7950,Yes,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2023,Graduate,Unknown/Unreported,Hispanic,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,727,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS299,B,A,Yes,Awarded,13405,No,No,No,No,Not Applicable
+2022-2023,2022,Graduate,Unknown/Unreported,White,Sage Creek High School,BUS,ART251,A,A,Yes,Awarded,7750,No,No,No,No,No
+2020-2021,2021,Graduate,Female,Unknown/Unreported,La Costa Canyon High School,ART,BUS132,A,F,Yes,Denied,10947,No,No,No,No,No
+2021-2022,2022,Graduate,Male,White,La Costa Canyon High School,BUS,BUS130,C,A,Yes,Awarded,3919,No,No,No,No,No
+2022-2023,2026,Graduate,Male,Hispanic,Oceanside High School,ART,BUS120,A,B,Yes,Awarded,1439,No,Not Applicable,No,Not Applicable,No
+2021-2022,2023,Graduate,Female,Hispanic,Oceanside High School,BUS,ART251,D,A,Yes,Awarded,11198,No,No,No,No,No
+2021-2022,2022,Graduate,Female,Hispanic,La Costa Canyon High School,BUS,ACCT158,A,B,Yes,Awarded,11603,No,No,No,No,Not Applicable
+2020-2021,2021,Graduate,Male,Pacific Islander,Canyon Crest Academy,ACCT,NURS151,B,B,Yes,Awarded,5059,No,No,No,No,No
+2020-2021,2024,Graduate,Male,White,Canyon Crest Academy,ACCT,BUS120,,D,No,Awarded,6956,Not Applicable,No,No,No,No
+2020-2021,2022,Graduate,Male,White,La Costa Canyon High School,AUTO,BUS132,A,A,Yes,Awarded,3533,No,No,No,No,No
+2021-2022,2022,Graduate,Female,White,Canyon Crest Academy,BUS,DESN100,B,A,Yes,Awarded,12552,No,No,No,No,Not Applicable
+2021-2022,2021,Graduate,Female,White,Carlsbad High School,NURS,ART251,B,C,Yes,Awarded,7891,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Hispanic,San Dieguito Academy,BUS,BUS130,A,A,Yes,Awarded,9979,Not Applicable,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,BUS,BUS132,,F,No,Awarded,2440,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Unknown/Unreported,Altus Schools,BUS,BUS130,A,A,Yes,Awarded,9208,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Unknown/Unreported,Hispanic,San Dieguito Academy,BUS,BUS130,A,A,Yes,Awarded,5586,Yes,Not Applicable,No,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Male,Two or More Races,Carlsbad High School,BUS,NURS151,A,A,Yes,Awarded,7259,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,Torrey Pines High School,BUS,NURS151,A,A,Yes,Awarded,9949,Not Applicable,No,No,No,No
+2020-2021,2025,Not Yet a Graduate,Unknown/Unreported,Hispanic,Canyon Crest Academy,ACCT,BUS120,,,Yes,Awarded,1316,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Male,Unknown/Unreported,La Costa Canyon High School,CS,CHLD299,A,A,Yes,Awarded,11014,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Middle Eastern or North African,Carlsbad High School,BUS,BUS120,A,A,No,Denied,2056,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Altus Schools,AUTO,NURS151,A,A,Yes,Awarded,4701,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Asian,Canyon Crest Academy,FILM,ACCT101,A,A,Yes,Awarded,7109,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,Hispanic,Torrey Pines High School,AUTO,BUS132,A,A,Yes,Awarded,8485,Yes,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Two or More Races,Canyon Crest Academy,FILM,KINE190,A,A,Yes,Awarded,5766,Yes,No,Not Applicable,No,No
+2020-2021,2024,Not Yet a Graduate,Female,Unknown/Unreported,San Dieguito Academy,BUS,ART251,,,Yes,Awarded,2496,Yes,No,Not Applicable,Yes,No
+2021-2022,2023,Graduate,Female,White,Canyon Crest Academy,BUS,BUS299,C,C,Yes,Awarded,7880,Not Applicable,Not Applicable,No,No,No
+2021-2022,2021,Graduate,Male,White,Carlsbad High School,CS,ACCT158,A,A,No,Awarded,811,No,No,No,No,No
+2022-2023,2023,Graduate,Female,Hispanic,Canyon Crest Academy,NURS,MAT110,A,B,Yes,Awarded,2064,Yes,No,Not Applicable,Not Applicable,No
+2022-2023,2025,Not Yet a Graduate,Male,Asian,El Camino High School,BUS,BUS120,A,A,Yes,Awarded,11625,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2022-2023,2025,Graduate,Unknown/Unreported,Two or More Races,Tri-City Christian School,BUS,BUS120,A,B,Yes,Awarded,9775,Not Applicable,Not Applicable,No,Not Applicable,No
+2020-2021,2023,Graduate,Male,White,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,5227,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Two or More Races,Oceanside High School,NURS,BUS132,A,,Yes,Denied,13727,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Female,Pacific Islander,Tri-City Christian School,BUS,BUS120,,,Yes,Awarded,8603,No,No,Not Applicable,Yes,Not Applicable
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,3568,Yes,No,Not Applicable,No,Not Applicable
+2020-2021,2021,Graduate,Male,White,Oceanside High School,BUS,BUS120,A,F,No,Denied,3860,No,No,No,No,No
+2021-2022,2025,Graduate,Male,White,Canyon Crest Academy,ART,DESN100,A,F,Yes,Awarded,1231,No,No,No,No,No
+2021-2022,2025,Graduate,Male,Two or More Races,La Costa Canyon High School,ART,NURS151,A,A,No,Awarded,10816,No,No,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Female,Hispanic,Altus Schools,ART,BUS132,A,A,Yes,Awarded,10349,Not Applicable,Not Applicable,No,No,No
+2022-2023,2024,Not Yet a Graduate,Unknown/Unreported,White,Torrey Pines High School,AUTO,BUS132,A,B,Yes,Awarded,8155,Not Applicable,No,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Female,White,San Dieguito Academy,BUS,BUS120,A,A,Yes,Denied,5193,No,No,No,Not Applicable,No
+2022-2023,2025,Not Yet a Graduate,Female,Two or More Races,La Costa Canyon High School,DESN,MAT110,A,B,Yes,Awarded,13419,Yes,No,Not Applicable,No,Not Applicable
+2022-2023,2023,Not Yet a Graduate,Male,Two or More Races,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,9483,No,No,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,Hispanic,Torrey Pines High School,KINE,HORT127,A,F,Yes,Denied,12979,No,No,No,Yes,Not Applicable
+2020-2021,2021,Graduate,Female,Asian,San Dieguito Academy,BUS,BUS132,B,A,Yes,Awarded,852,No,No,No,No,No
+2022-2023,2023,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,2718,No,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Not Yet a Graduate,Unknown/Unreported,Hispanic,San Dieguito Academy,ACCT,BUS120,A,B,Yes,Awarded,2988,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,ART,DESN100,B,A,Yes,Awarded,6418,Yes,No,No,No,Not Applicable
+2020-2021,2023,Not Yet a Graduate,Female,Asian,San Dieguito Academy,BUS,BUS120,A,C,Yes,Awarded,1188,Yes,No,Yes,No,Not Applicable
+2021-2022,2024,Graduate,Female,White,Torrey Pines High School,ART,ART251,A,A,Yes,Awarded,1341,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Oceanside High School,DESN,HORT127,A,,Yes,Awarded,6903,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Male,Two or More Races,Canyon Crest Academy,BUS,AUTO102,A,,No,Denied,5951,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Male,Middle Eastern or North African,Canyon Crest Academy,BUS,BUS130,A,A,No,Denied,961,Yes,No,No,No,No
+2020-2021,2022,Graduate,Unknown/Unreported,Hispanic,La Costa Canyon High School,BUS,BUS130,A,,No,Denied,8232,No,Not Applicable,No,Not Applicable,No
+2020-2021,2022,Graduate,Female,Hispanic,El Camino High School,FILM,ART251,A,A,Yes,Awarded,12591,No,No,No,No,No
+2020-2021,2022,Graduate,Male,White,Tri-City Christian School,ACCT,BUS120,A,A,Yes,Awarded,5236,No,No,No,No,No
+2021-2022,2023,Graduate,Female,Asian,San Dieguito Academy,AUTO,BUS132,B,A,Yes,Awarded,9434,Yes,Not Applicable,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,D,A,Yes,Denied,7789,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Female,White,Torrey Pines High School,CS,CS111,A,A,Yes,Awarded,5447,Not Applicable,No,No,No,No
+2022-2023,2025,Graduate,Female,Hispanic,Torrey Pines High School,ART,DESN100,A,A,Yes,Awarded,7906,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,La Costa Canyon High School,BUS,BUS130,A,A,Yes,Awarded,7671,Yes,No,Not Applicable,No,No
+2020-2021,2021,Graduate,Female,White,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,196,No,No,No,No,No
+2022-2023,2022,Graduate,Male,Hispanic,Torrey Pines High School,CS,BUS120,A,B,Yes,Awarded,11096,Not Applicable,No,No,No,No
+2021-2022,2022,Graduate,Male,White,Sage Creek High School,BUS,BUS120,C,,No,Awarded,8685,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,ART253,B,A,Yes,Awarded,12222,No,Not Applicable,Not Applicable,No,No
+2021-2022,2024,Graduate,Male,Asian,Oceanside High School,AUTO,BUS132,A,A,Yes,Awarded,5948,No,No,No,No,No
+2020-2021,2021,Graduate,Female,Hispanic,Carlsbad High School,MTEC,MTEC110,,A,No,Denied,12108,No,No,No,No,No
+2022-2023,2023,Graduate,Female,White,San Dieguito Academy,BUS,BUS132,A,A,Yes,Awarded,4694,Not Applicable,Not Applicable,No,No,No
+2021-2022,2024,Not Yet a Graduate,Male,White,Sage Creek High School,BUS,BUS130,A,B,Yes,Awarded,3663,Yes,No,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Female,Hispanic,Canyon Crest Academy,NURS,BUS130,A,F,Yes,Awarded,11742,No,No,No,No,No
+2020-2021,2025,Graduate,Male,Asian,Canyon Crest Academy,KINE,DESN100,A,A,Yes,Awarded,8677,Yes,Yes,Not Applicable,Not Applicable,No
+2020-2021,2022,Not Yet a Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,12939,Yes,Not Applicable,No,No,No
+2021-2022,2021,Graduate,Female,Asian,San Dieguito Academy,BUS,BUS130,A,A,No,Denied,104,Yes,No,No,No,No
+2022-2023,2024,Graduate,Male,Asian,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,5612,No,Not Applicable,No,Not Applicable,No
+2020-2021,2023,Graduate,Male,Hispanic,Oceanside High School,ART,DESN100,A,A,Yes,Awarded,5242,No,No,No,Not Applicable,No
+2022-2023,2025,Not Yet a Graduate,Male,Unknown/Unreported,Torrey Pines High School,AUTO,BUS130,A,B,Yes,Awarded,5860,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2025,Graduate,Female,Hispanic,Torrey Pines High School,ART,HORT127,A,A,Yes,Awarded,11332,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Female,Asian,Canyon Crest Academy,ACCT,ACCT158,A,,Yes,Awarded,6049,No,No,No,No,No
+2020-2021,2022,Graduate,Female,Hispanic,Sage Creek High School,BUS,BUS132,B,A,Yes,Awarded,13119,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Middle Eastern or North African,La Costa Canyon High School,NURS,NURS151,A,A,Yes,Awarded,10912,No,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Female,Unknown/Unreported,Torrey Pines High School,BUS,BUS130,A,,No,Denied,6790,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Black/African American,San Dieguito Academy,MAT,ART251,,A,Yes,Denied,12586,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,Sage Creek High School,BUS,BUS132,A,A,Yes,Awarded,12182,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,Unknown/Unreported,San Dieguito Academy,MAP,ART251,,A,Yes,Awarded,1452,No,No,No,No,No
+2020-2021,2024,Graduate,Unknown/Unreported,Hispanic,Canyon Crest Academy,BUS,BUS130,B,A,Yes,Awarded,8425,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,NURS,ART251,B,A,Yes,Awarded,1080,No,No,No,No,No
+2021-2022,2024,Graduate,Female,White,Canyon Crest Academy,BUS,NURS151,,A,Yes,Awarded,9342,Not Applicable,No,No,Not Applicable,No
+2020-2021,2022,Graduate,Female,White,Mission Vista High School,BUS,BUS132,A,A,Yes,Awarded,4309,No,No,No,No,No
+2022-2023,2023,Graduate,Male,Unknown/Unreported,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Denied,145,No,No,No,No,No
+2020-2021,2021,Graduate,Male,White,Tri-City Christian School,BUS,BUS120,A,A,Yes,Denied,9368,No,No,No,No,No
+2020-2021,2022,Graduate,Female,White,San Dieguito Academy,BUS,CS101,A,,No,Awarded,6604,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Male,Hispanic,Canyon Crest Academy,ART,MAT110,A,A,Yes,Awarded,5584,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2023,Not Yet a Graduate,Female,White,Oceanside High School,BUS,BUS132,A,A,Yes,Awarded,2905,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Male,Middle Eastern or North African,La Costa Canyon High School,BUS,NURS151,A,C,Yes,Awarded,1284,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Black/African American,La Costa Canyon High School,NURS,BUS132,A,A,Yes,Denied,35,No,No,No,No,No
+2022-2023,2023,Graduate,Female,Hispanic,Canyon Crest Academy,NURS,ART251,A,A,Yes,Awarded,9685,No,No,No,No,No
+2021-2022,2023,Graduate,Female,White,Carlsbad High School,DESN,ART251,A,B,Yes,Awarded,3043,No,No,No,No,No
+2021-2022,2026,Not Yet a Graduate,Female,White,Torrey Pines High School,BUS,CS101,A,P,Yes,Denied,630,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Unknown/Unreported,Asian,Canyon Crest Academy,BUS,BUS132,A,,Yes,Awarded,342,No,No,No,Not Applicable,Not Applicable
+2020-2021,2021,Graduate,Male,White,Canyon Crest Academy,BUS,BUS132,C,B,Yes,Awarded,10217,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Sage Creek High School,CS,CS111,A,A,Yes,Awarded,2253,No,No,No,No,No
+2021-2022,2022,Graduate,Female,White,Sage Creek High School,MAT,ART251,A,B,Yes,Awarded,8269,No,No,No,No,No
+2021-2022,2025,Graduate,Unknown/Unreported,White,Canyon Crest Academy,BUS,CS101,A,B,Yes,Awarded,6237,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Male,Hispanic,La Costa Canyon High School,CHLD,ACCT158,A,A,Yes,Denied,1457,No,Not Applicable,No,Yes,No
+2022-2023,2025,Not Yet a Graduate,Female,White,La Costa Canyon High School,BUS,AUTO102,D,A,Yes,Awarded,11805,Not Applicable,No,No,Not Applicable,Not Applicable
+2022-2023,2026,Graduate,Female,Asian,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Denied,10997,Not Applicable,Not Applicable,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Black/African American,Canyon Crest Academy,MAP,MAT110,A,A,Yes,Awarded,4373,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,CS,BUS120,A,A,Yes,Denied,13500,No,No,No,No,No
+2020-2021,2023,Graduate,Female,Two or More Races,Mission Vista High School,BUS,CS101,A,A,Yes,Awarded,12225,Not Applicable,Not Applicable,No,Yes,No
+2022-2023,2024,Not Yet a Graduate,Male,White,Canyon Crest Academy,NURS,DESN100,A,A,Yes,Awarded,2382,No,No,No,No,No
+2022-2023,2023,Graduate,Unknown/Unreported,Unknown/Unreported,Torrey Pines High School,ART,FILM101,B,B,Yes,Awarded,1189,No,No,No,No,No
+2020-2021,2025,Not Yet a Graduate,Female,Two or More Races,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,645,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS120,B,B,Yes,Awarded,12925,No,No,No,No,No
+2020-2021,2021,Graduate,Female,Hispanic,Torrey Pines High School,CS,CS101,A,A,Yes,Awarded,779,No,No,No,No,No
+2021-2022,2023,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,BUS120,A,A,No,Denied,5607,Yes,No,No,No,No
+2022-2023,2026,Graduate,Male,Hispanic,La Costa Canyon High School,HORT,ART251,A,B,Yes,Awarded,4646,Not Applicable,No,Not Applicable,Not Applicable,No
+2020-2021,2022,Graduate,Male,Unknown/Unreported,Carlsbad High School,AUTO,BUS132,B,A,Yes,Awarded,4442,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,La Costa Canyon High School,BUS,BUS130,C,A,Yes,Awarded,5569,Not Applicable,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Female,White,La Costa Canyon High School,BUS,CS101,B,A,Yes,Awarded,9251,Yes,No,Not Applicable,No,No
+2021-2022,2025,Not Yet a Graduate,Male,Asian,Torrey Pines High School,MAT,BUS130,A,A,Yes,Awarded,8119,No,Yes,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,La Costa Canyon High School,BUS,BUS132,D,,Yes,Denied,780,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,La Costa Canyon High School,BUS,BUS120,A,,Yes,Awarded,8199,No,No,Not Applicable,No,No
+2022-2023,2023,Not Yet a Graduate,Male,White,Sage Creek High School,ACCT,BUS132,A,A,Yes,Denied,102,Yes,No,Not Applicable,No,Not Applicable
+2020-2021,2022,Graduate,Female,White,Sage Creek High School,DESN,FILM101,A,F,Yes,Denied,10645,Yes,No,No,No,No
+2022-2023,2027,Not Yet a Graduate,Male,Hispanic,La Costa Canyon High School,DESN,BUS132,B,A,Yes,Awarded,1720,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2023,Graduate,Male,Asian,La Costa Canyon High School,BUS,BUS132,A,B,Yes,Awarded,8285,No,No,No,No,No
+2020-2021,2022,Graduate,Female,White,Torrey Pines High School,BUS,MAT110,A,A,Yes,Awarded,12411,No,No,No,No,No
+2022-2023,2023,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,BUS,BUS130,A,C,Yes,Awarded,5425,Not Applicable,No,No,No,Not Applicable
+2022-2023,2025,Graduate,Unknown/Unreported,Unknown/Unreported,Torrey Pines High School,BUS,BUS130,A,A,No,Awarded,2830,Not Applicable,Not Applicable,No,No,Not Applicable
+2020-2021,2021,Graduate,Female,Asian,Canyon Crest Academy,BUS,NURS151,A,A,No,Denied,5041,No,No,Not Applicable,No,Not Applicable
+2020-2021,2022,Graduate,Male,Hispanic,El Camino High School,ACCT,BUS132,A,A,Yes,Awarded,6452,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,B,A,Yes,Awarded,1408,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,CS,CS111,A,D,Yes,Awarded,9150,No,No,No,No,No
+2020-2021,2022,Graduate,Female,Hispanic,Carlsbad High School,AUTO,BUS132,B,A,Yes,Denied,7976,Yes,No,No,No,No
+2021-2022,2020,Graduate,Male,Asian,Sage Creek High School,BUS,MAT110,B,A,Yes,Awarded,8301,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Asian,Torrey Pines High School,CS,CS101,D,A,Yes,Awarded,2435,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2020-2021,2022,Graduate,Female,Asian,El Camino High School,BUS,BUS132,A,A,Yes,Awarded,1174,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,White,Carlsbad High School,BUS,BUS120,A,A,No,Denied,12587,No,Not Applicable,Not Applicable,Not Applicable,No
+2020-2021,2021,Graduate,Female,White,Canyon Crest Academy,ACCT,ACCT158,A,,Yes,Awarded,5782,No,No,No,No,No
+2021-2022,2023,Graduate,Male,White,La Costa Canyon High School,BUS,BUS130,B,A,Yes,Denied,6225,Yes,Not Applicable,No,No,No
+2022-2023,2022,Graduate,Female,Asian,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,837,Yes,No,No,No,No
+2020-2021,2023,Graduate,Male,Black/African American,Torrey Pines High School,MAP,FILM101,A,B,Yes,Awarded,6627,Yes,No,No,No,No
+2021-2022,2025,Graduate,Female,White,Oceanside High School,BUS,BUS130,A,C,Yes,Awarded,12782,Yes,No,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Graduate,Female,Hispanic,San Dieguito Academy,BUS,BUS132,B,A,Yes,Awarded,230,No,No,No,No,No
+2022-2023,2023,Not Yet a Graduate,Female,White,Canyon Crest Academy,BUS,BUS120,C,A,Yes,Awarded,6859,Yes,No,No,Not Applicable,No
+2021-2022,2022,Graduate,Male,Hispanic,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Awarded,3541,No,No,Not Applicable,No,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Male,White,La Costa Canyon High School,BUS,AUTO130,A,A,Yes,Awarded,7615,No,Not Applicable,Not Applicable,No,No
+2020-2021,2023,Graduate,Female,Asian,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,3533,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Unknown/Unreported,Asian,Sage Creek High School,BUS,NURS151,A,A,No,Awarded,12640,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Female,Unknown/Unreported,Carlsbad High School,DESN,ART251,A,A,Yes,Awarded,8382,Yes,No,No,No,No
+2021-2022,2022,Graduate,Female,Asian,Canyon Crest Academy,FILM,DESN100,,A,Yes,Awarded,741,No,No,No,No,No
+2020-2021,2022,Graduate,Male,Two or More Races,El Camino High School,BUS,BUS132,B,A,No,Awarded,12092,No,Not Applicable,No,No,Not Applicable
+2022-2023,2026,Graduate,Female,Asian,Canyon Crest Academy,MTEC,MTEC110,,A,Yes,Denied,2807,Not Applicable,No,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Unknown/Unreported,White,Sage Creek High School,BUS,BUS120,A,B,Yes,Denied,5023,Yes,No,No,No,No
+2021-2022,2024,Graduate,Female,Hispanic,Altus Schools,ART,ART251,A,A,Yes,Awarded,12266,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Unknown/Unreported,Asian,El Camino High School,ART,MAT125,B,A,Yes,Awarded,7389,Not Applicable,Yes,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Male,Middle Eastern or North African,Sage Creek High School,BUS,AUTO102,A,A,Yes,Awarded,8433,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Two or More Races,Torrey Pines High School,HORT,EDUC115,B,B,Yes,Awarded,5294,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Hispanic,Torrey Pines High School,HORT,FILM101,A,D,No,Denied,3326,No,No,No,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Female,Hispanic,Canyon Crest Academy,ART,AUTO130,A,A,Yes,Awarded,12699,No,Yes,No,No,No
+2022-2023,2022,Graduate,Female,Hispanic,Carlsbad High School,DESN,AUTO102,A,A,Yes,Awarded,11266,No,No,No,No,No
+2020-2021,2022,Graduate,Male,Hispanic,El Camino High School,BUS,BUS130,A,A,Yes,Awarded,8248,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,White,El Camino High School,CS,ACCT158,A,A,Yes,Awarded,11671,No,No,No,Not Applicable,No
+2021-2022,2023,Graduate,Unknown/Unreported,White,Canyon Crest Academy,BUS,ART251,A,A,No,Denied,13261,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,Sage Creek High School,ACCT,BUS120,A,A,Yes,Denied,6986,No,No,Not Applicable,No,No
+2022-2023,2023,Graduate,Female,White,Carlsbad High School,NURS,BUS299,A,B,Yes,Awarded,4960,No,No,No,No,No
+2020-2021,2026,Graduate,Male,White,Torrey Pines High School,BUS,BUS130,B,A,Yes,Awarded,5900,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2022,Graduate,Male,White,Oceanside High School,ACCT,BUS130,A,A,Yes,Awarded,5,No,No,No,No,No
+2020-2021,2025,Graduate,Male,Asian,Torrey Pines High School,ART,BUS130,A,A,Yes,Awarded,8166,No,No,No,No,Not Applicable
+2022-2023,2026,Graduate,Male,Hispanic,Tri-City Christian School,ART,ART251,C,A,No,Denied,11825,Yes,No,Not Applicable,Not Applicable,No
+2022-2023,2022,Graduate,Female,White,Canyon Crest Academy,MAT,MAT125,B,A,Yes,Awarded,11749,No,No,No,No,No
+2022-2023,2023,Not Yet a Graduate,Male,Unknown/Unreported,Torrey Pines High School,BUS,BUS120,,A,Yes,Awarded,1043,Yes,No,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Female,Two or More Races,Torrey Pines High School,DESN,DESN100,A,D,Yes,Denied,13724,Yes,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2022,Not Yet a Graduate,Female,White,Canyon Crest Academy,ART,HORT127,D,,Yes,Denied,9295,No,No,No,No,No
+2021-2022,2025,Graduate,Female,White,Torrey Pines High School,BUS,BUS120,A,C,Yes,Awarded,293,No,No,No,No,No
+2022-2023,2023,Graduate,Female,White,Oceanside High School,NURS,BUS132,B,C,Yes,Awarded,5974,Yes,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Female,Unknown/Unreported,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,2934,No,No,No,No,No
+2022-2023,2027,Not Yet a Graduate,Male,White,Canyon Crest Academy,ACCT,ACCT158,B,A,Yes,Awarded,6596,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2020-2021,2023,Graduate,Female,Hispanic,San Dieguito Academy,CS,CS111,A,A,Yes,Awarded,12122,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,La Costa Canyon High School,BUS,NURS151,B,A,Yes,Awarded,12667,Yes,Not Applicable,Not Applicable,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Canyon Crest Academy,ACCT,NURS151,D,,Yes,Awarded,7613,No,No,No,No,No
+2020-2021,2020,Graduate,Female,Asian,La Costa Canyon High School,BUS,BUS132,D,D,Yes,Denied,7958,No,No,No,No,No
+2020-2021,2024,Graduate,Male,Hispanic,El Camino High School,BUS,BUS120,A,A,Yes,Denied,9670,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,White,Carlsbad High School,BUS,BUS120,A,A,No,Awarded,3410,No,Not Applicable,No,No,Not Applicable
+2020-2021,2024,Graduate,Male,Asian,Canyon Crest Academy,DESN,ART251,B,A,No,Denied,7739,No,No,Not Applicable,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Canyon Crest Academy,ACCT,BUS120,,A,Yes,Denied,9566,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Two or More Races,Carlsbad High School,ART,MAP100,A,A,No,Denied,6223,Yes,No,No,No,No
+2021-2022,2022,Graduate,Female,Asian,Oceanside High School,MAP,CSIT101,A,D,Yes,Awarded,1344,No,No,No,No,No
+2022-2023,2025,Graduate,Male,Hispanic,La Costa Canyon High School,ART,KINE190,A,B,Yes,Awarded,11437,Not Applicable,No,Not Applicable,Not Applicable,No
+2020-2021,2022,Graduate,Male,White,Canyon Crest Academy,CS,CS111,C,A,Yes,Awarded,13496,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Male,White,San Dieguito Academy,BUS,BUS120,A,,Yes,Awarded,10342,Yes,No,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Female,Asian,Carlsbad High School,ART,BUS132,A,A,Yes,Awarded,585,Yes,No,No,No,No
+2022-2023,2025,Graduate,Female,Two or More Races,Oceanside High School,NURS,BUS132,A,A,Yes,Awarded,8599,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,BUS,KINE190,B,A,Yes,Awarded,6384,No,No,No,No,No
+2021-2022,2022,Graduate,Unknown/Unreported,White,La Costa Canyon High School,BUS,MAT125,A,,No,Denied,8643,No,No,No,No,No
+2022-2023,2023,Not Yet a Graduate,Male,White,Canyon Crest Academy,MAT,BUS132,A,A,Yes,Awarded,6530,No,No,No,No,No
+2022-2023,2023,Graduate,Male,Asian,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,6468,No,No,Not Applicable,No,No
+2021-2022,2024,Graduate,Female,Hispanic,Torrey Pines High School,ART,BUS132,A,A,Yes,Awarded,4439,No,No,No,No,No
+2022-2023,2021,Graduate,Female,White,Sage Creek High School,BUS,BUS299,A,A,Yes,Awarded,11262,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,7445,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2023,Graduate,Female,Hispanic,Carlsbad High School,BUS,NURS151,A,A,Yes,Awarded,7730,Yes,No,No,No,No
+2022-2023,2022,Graduate,Female,White,Altus Schools,BUS,MTEC110,B,A,Yes,Awarded,7148,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Male,White,Carlsbad High School,BUS,BUS120,A,D,Yes,Awarded,4013,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,Canyon Crest Academy,BUS,ACCT158,A,A,No,Awarded,10134,Not Applicable,Not Applicable,No,No,No
+2021-2022,2023,Graduate,Male,White,San Dieguito Academy,BUS,BUS120,B,B,Yes,Awarded,3640,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,White,Carlsbad High School,ART,BUS130,A,A,Yes,Awarded,5704,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,7675,No,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Male,Two or More Races,Oceanside High School,ACCT,BUS120,A,A,No,Denied,9580,No,No,No,No,No
+2022-2023,2025,Graduate,Female,Asian,San Dieguito Academy,ART,MAT110,A,B,Yes,Awarded,5646,Yes,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Asian,Tri-City Christian School,MAT,MAT110,A,B,Yes,Awarded,9242,No,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Not Yet a Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,6743,Yes,No,No,No,Not Applicable
+2022-2023,2024,Graduate,Male,White,La Costa Canyon High School,ART,ART251,A,A,Yes,Denied,1995,No,No,No,No,No
+2020-2021,2022,Graduate,Male,Hispanic,Torrey Pines High School,ART,NURS155,A,A,No,Awarded,5484,Not Applicable,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,Unknown/Unreported,Carlsbad High School,CS,CS111,A,F,Yes,Awarded,1146,Not Applicable,Not Applicable,No,No,No
+2022-2023,2027,Not Yet a Graduate,Female,Middle Eastern or North African,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,1972,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Graduate,Female,White,Canyon Crest Academy,ACCT,NURS151,A,A,Yes,Awarded,9963,Not Applicable,Yes,Not Applicable,No,Not Applicable
+2022-2023,2025,Graduate,Male,White,San Dieguito Academy,DESN,CSIT101,A,A,No,Denied,2160,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2021,Graduate,Male,Asian,La Costa Canyon High School,ACCT,NURS151,A,C,Yes,Awarded,9497,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Unknown/Unreported,White,Torrey Pines High School,NURS,DESN100,A,A,Yes,Awarded,9311,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Male,White,La Costa Canyon High School,ART,NURS155,A,C,Yes,Awarded,7746,No,Not Applicable,No,No,No
+2020-2021,2025,Graduate,Male,White,Oceanside High School,ART, ACCT101,A,B,Yes,Awarded,9414,Yes,No,Not Applicable,No,No
+2021-2022,2026,Not Yet a Graduate,Male,Hispanic,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Awarded,1454,Yes,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Male,White,San Dieguito Academy,BUS,NURS151,A,A,Yes,Awarded,3786,No,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2025,Not Yet a Graduate,Female,Asian,Oceanside High School,BUS,BUS120,A,A,Yes,Awarded,659,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2023,Graduate,Male,White,La Costa Canyon High School,ACCT,BUS120,B,B,Yes,Awarded,12419,Not Applicable,Not Applicable,No,Not Applicable,No
+2020-2021,2021,Graduate,Female,White,Oceanside High School,ACCT,BUS120,F,F,Yes,Awarded,2606,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Sage Creek High School,BUS,ACCT158,A,,Yes,Awarded,13284,Not Applicable,Yes,No,No,No
+2020-2021,2023,Graduate,Female,Hispanic,Oceanside High School,BUS,BUS120,C,A,Yes,Awarded,9158,No,No,No,No,No
+2020-2021,2022,Graduate,Female,Hispanic,La Costa Canyon High School,BUS,BUS130,B,B,Yes,Awarded,4395,No,Yes,No,No,No
+2020-2021,2020,Graduate,Unknown/Unreported,Black/African American,Torrey Pines High School,ACCT,BUS120,C,B,Yes,Denied,6036,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,ACCT,BUS120,B,A,Yes,Awarded,174,Yes,Not Applicable,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Canyon Crest Academy,DESN,AUTO130,A,C,Yes,Awarded,6843,Not Applicable,No,No,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Female,White,La Costa Canyon High School,BUS,BUS120,A,D,No,Awarded,10000,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Torrey Pines High School,NURS,MAT110,A,A,Yes,Awarded,1102,Not Applicable,Yes,No,No,No
+2020-2021,2023,Graduate,Male,White,San Dieguito Academy,ART,ART251,A,B,No,Denied,2063,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Asian,El Camino High School,BUS,BUS120,A,A,Yes,Awarded,1324,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,Carlsbad High School,BUS,BUS120,A,A,Yes,Awarded,1742,No,No,No,Not Applicable,No
+2020-2021,2021,Graduate,Unknown/Unreported,Hispanic,Torrey Pines High School,BUS,MAT110,A,A,No,Awarded,770,Yes,No,No,No,No
+2022-2023,2023,Not Yet a Graduate,Male,Asian,Tri-City Christian School,BUS,BUS120,A,B,Yes,Awarded,8685,No,No,No,Not Applicable,No
+2021-2022,2026,Not Yet a Graduate,Male,Middle Eastern or North African,Torrey Pines High School,BUS,BUS120,B,B,Yes,Awarded,5640,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Female,White,Torrey Pines High School,ART,DESN207,A,A,Yes,Awarded,7939,No,No,Not Applicable,No,Not Applicable
+2022-2023,2023,Graduate,Male,Asian,Torrey Pines High School,DESN,NURS155,A,I,No,Awarded,8625,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Carlsbad High School,AUTO,FILM101,A,A,Yes,Awarded,6862,Yes,No,No,No,Not Applicable
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS132,A,A,No,Denied,13038,No,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,CS101,A,A,Yes,Awarded,7948,No,No,No,No,No
+2020-2021,2024,Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,1180,No,No,No,No,No
+2020-2021,2021,Graduate,Female,White,San Dieguito Academy,HOSP,ART251,B,A,Yes,Awarded,4183,No,No,Not Applicable,No,No
+2021-2022,2022,Not Yet a Graduate,Male,Unknown/Unreported,San Dieguito Academy,BUS,BUS120,,A,No,Denied,175,Not Applicable,No,No,No,Not Applicable
+2021-2022,2023,Graduate,Female,Two or More Races,Canyon Crest Academy,ACCT,NURS151,A,A,No,Awarded,5775,Yes,No,No,No,No
+2020-2021,2022,Graduate,Unknown/Unreported,White,Oceanside High School,BUS,NURS151,A,A,Yes,Denied,12621,No,No,No,No,No
+2022-2023,2022,Graduate,Male,White,Carlsbad High School,BUS,AUTO130,A,D,Yes,Awarded,4724,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Two or More Races,Carlsbad High School,NURS,BUS120,A,A,Yes,Awarded,13739,Not Applicable,No,Not Applicable,No,No
+2021-2022,2025,Not Yet a Graduate,Female,White,Carlsbad High School,BUS,BUS130,,A,No,Denied,5138,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Male,White,Mission Hills High School,BUS,ART251,A,A,Yes,Awarded,13455,No,No,No,No,No
+2020-2021,2024,Graduate,Male,White,Oceanside High School,BUS,BUS130,B,A,Yes,Awarded,6821,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Denied,2645,No,No,Not Applicable,Not Applicable,No
+2020-2021,2023,Graduate,Female,White,La Costa Canyon High School,BUS,BUS130,A,N,Yes,Awarded,3101,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Two or More Races,Torrey Pines High School,ART,BUS132,,A,No,Awarded,7779,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2020-2021,2024,Not Yet a Graduate,Female,Two or More Races,Canyon Crest Academy,BUS,BUS130,A,A,Yes,Awarded,623,Yes,No,No,No,No
+2020-2021,2022,Graduate,Female,White,Oceanside High School,BUS,AUTO102,A,A,Yes,Awarded,2114,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Two or More Races,Torrey Pines High School,BUS,BUS120,F,N,No,Awarded,11944,No,No,No,No,Not Applicable
+2021-2022,2022,Graduate,Unknown/Unreported,Hispanic,Torrey Pines High School,BUS,CS101,A,A,No,Denied,1117,No,No,No,No,No
+2020-2021,2022,Graduate,Male,Asian,El Camino High School,ACCT,BUS130,A,B,Yes,Awarded,8821,No,Not Applicable,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Torrey Pines High School,ACCT,ACCT158,B,A,Yes,Awarded,4088,No,No,No,No,No
+2021-2022,2022,Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS130,A,B,Yes,Awarded,12590,No,No,No,Yes,No
+2020-2021,2020,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS132,A,F,Yes,Awarded,2277,Yes,No,No,No,No
+2021-2022,2022,Graduate,Female,White,Canyon Crest Academy,NURS,HORT127,A,B,Yes,Awarded,1411,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Hispanic,Canyon Crest Academy,AUTO,BUS132,A,A,Yes,Denied,7212,No,No,No,No,No
+2021-2022,2023,Graduate,Unknown/Unreported,Hispanic,Torrey Pines High School,BUS,BUS120,A,N,Yes,Awarded,2445,No,No,No,No,No
+2022-2023,2022,Graduate,Male,White,Oceanside High School,BUS,NURS151,A,A,No,Denied,450,No,No,No,No,No
+2022-2023,2022,Graduate,Male,White,Oceanside High School,NURS,BUS299,A,A,Yes,Awarded,11631,Yes,No,No,No,No
+2021-2022,2024,Graduate,Unknown/Unreported,White,San Dieguito Academy,ACCT,BUS120,A,A,Yes,Awarded,9383,Not Applicable,No,Yes,No,No
+2020-2021,2025,Graduate,Male,Asian,El Camino High School,AUTO,BUS132,A,A,Yes,Awarded,811,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Asian,Oceanside High School,ART,ART251,B,F,Yes,Denied,11512,No,No,No,No,No
+2021-2022,2023,Graduate,Male,Two or More Races,Torrey Pines High School,AUTO,ART251,C,C,Yes,Denied,8864,No,No,No,No,No
+2020-2021,2020,Graduate,Female,Hispanic,La Costa Canyon High School,BUS,AUTO130,A,B,Yes,Awarded,1644,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Torrey Pines High School,NURS,BUS132,A,A,No,Denied,3564,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Male,Asian,La Costa Canyon High School,DESN,ART251,A,B,Yes,Awarded,7704,No,Not Applicable,No,Yes,No
+2021-2022,2022,Graduate,Male,Hispanic,Sage Creek High School,AUTO,BUS132,A,A,Yes,Awarded,11494,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Unknown/Unreported,La Costa Canyon High School,BUS,MAT110,A,A,Yes,Awarded,10655,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Canyon Crest Academy,HORT,HORT127,A,C,Yes,Awarded,6395,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,BUS,NURS151,B,F,Yes,Awarded,6904,No,No,No,No,No
+2022-2023,2022,Graduate,Male,Asian,La Costa Canyon High School,BUS,BUS132,A,A,No,Awarded,5305,No,No,No,No,No
+2021-2022,2021,Graduate,Male,White,La Costa Canyon High School,CS,CS111,A,B,Yes,Awarded,10000,No,No,No,No,No
+2022-2023,2025,Graduate,Male,White,Torrey Pines High School,NURS,BUS132,A,A,No,Awarded,2839,Not Applicable,Not Applicable,No,No,No
+2020-2021,2023,Not Yet a Graduate,Unknown/Unreported,Hispanic,Torrey Pines High School,BUS,BUS120,A,B,Yes,Awarded,2435,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2024,Not Yet a Graduate,Female,Asian,Altus Schools,BUS,CS101,B,C,Yes,Awarded,6215,No,No,No,No,No
+2020-2021,2023,Graduate,Female,Unknown/Unreported,Sage Creek High School,ART,AUTO102,A,,Yes,Denied,8117,No,No,No,No,No
+2020-2021,2022,Graduate,Female,Two or More Races,Torrey Pines High School,BUS,BUS120,B,B,Yes,Awarded,4191,No,Not Applicable,No,No,Not Applicable
+2021-2022,2024,Graduate,Female,Two or More Races,Torrey Pines High School,BUS,CS101,A,A,Yes,Awarded,7754,Yes,Yes,No,No,Not Applicable
+2021-2022,2022,Graduate,Female,Asian,Torrey Pines High School,DESN,MTEC110,A,A,Yes,Awarded,213,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Asian,Oceanside High School,MAT,BUS132,A,A,Yes,Awarded,4490,No,No,No,No,No
+2020-2021,2022,Graduate,Male,Asian,Canyon Crest Academy,CS,CS101,A,B,Yes,Awarded,7211,No,No,No,No,No
+2021-2022,2024,Graduate,Female,Hispanic,Oceanside High School,MTEC,MAP50,A,A,Yes,Awarded,2178,No,No,No,Not Applicable,No
+2020-2021,2025,Graduate,Male,White,Sage Creek High School,HORT,AUTO102,A,A,Yes,Awarded,6352,No,No,No,No,No
+2022-2023,2023,Graduate,Female,Two or More Races,Carlsbad High School,BUS,NURS151,A,B,Yes,Denied,9662,No,No,No,No,No
+2021-2022,2026,Graduate,Female,Hispanic,Altus Schools,BUS,BUS120,A,A,Yes,Awarded,6307,No,No,No,No,No
+2021-2022,2024,Graduate,Female,White,Torrey Pines High School,CS,CS111,A,B,Yes,Awarded,4568,No,Not Applicable,No,No,No
+2021-2022,2024,Graduate,Male,Asian,Oceanside High School,BUS,BUS120,B,A,No,Denied,6462,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Female,White,Carlsbad High School,BUS,BUS120,A,B,Yes,Awarded,192,Yes,No,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,White,Carlsbad High School,HORT,DESN100,A,A,No,Awarded,1503,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,880,No,No,No,No,No
+2021-2022,2025,Graduate,Female,White,Torrey Pines High School,ACCT,BUS120,A,,No,Denied,234,Not Applicable,No,No,No,No
+2020-2021,2022,Graduate,Female,Hispanic,Sage Creek High School,BUS,BUS130,A,C,No,Awarded,11289,No,No,No,No,Not Applicable
+2020-2021,2023,Graduate,Male,Unknown/Unreported,Torrey Pines High School,NURS,BUS132,A,D,Yes,Awarded,11045,No,No,No,Not Applicable,No
+2020-2021,2023,Graduate,Male,Unknown/Unreported,San Dieguito Academy,NURS,DESN100,A,A,No,Denied,2642,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,White,Sage Creek High School,ART,NURS155,B,A,Yes,Awarded,2356,Not Applicable,Not Applicable,Not Applicable,No,No
+2020-2021,2023,Graduate,Female,Asian,San Dieguito Academy,MAT,AUTO102,B,A,Yes,Awarded,724,No,No,Not Applicable,No,No
+2020-2021,2023,Not Yet a Graduate,Male,Two or More Races,El Camino High School,BUS,BUS120,A,B,Yes,Awarded,6606,No,No,Not Applicable,Not Applicable,No
+2022-2023,2023,Graduate,Male,White,Canyon Crest Academy,BUS,KINE190,A,A,Yes,Awarded,5542,No,No,No,No,No
+2022-2023,2023,Graduate,Female,White,San Dieguito Academy,ART,BUS130,B,A,Yes,Awarded,7483,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Middle Eastern or North African,Canyon Crest Academy,BUS,CS101,A,A,No,Awarded,9871,Yes,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Male,Asian,La Costa Canyon High School,NURS,BUS120,A,A,Yes,Awarded,8064,No,No,No,Not Applicable,No
+2022-2023,2023,Graduate,Female,White,Oceanside High School,NURS,MAT110,A,B,Yes,Awarded,8275,No,No,No,No,No
+2020-2021,2022,Graduate,Female,White,Torrey Pines High School,BUS,NURS151,A,A,Yes,Awarded,11155,No,No,No,No,No
+2021-2022,2023,Graduate,Male,White,Sage Creek High School,ART,HORT127,A,A,Yes,Awarded,1948,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Canyon Crest Academy,CS,CS111,A,A,Yes,Awarded,1260,Not Applicable,No,No,Not Applicable,No
+2022-2023,2025,Graduate,Male,Hispanic,Torrey Pines High School,ART,BUS132,A,B,Yes,Awarded,8225,Yes,No,No,No,No
+2020-2021,2022,Graduate,Male,White,Sage Creek High School,BUS,BUS120,D,A,Yes,Awarded,9864,No,No,No,No,Not Applicable
+2021-2022,2024,Not Yet a Graduate,Male,Asian,San Dieguito Academy,ACCT,CS101,A,A,Yes,Awarded,1904,Yes,Not Applicable,No,No,Not Applicable
+2020-2021,2021,Graduate,Male,Hispanic,Oceanside High School,ART,NURS151,A,A,No,Denied,6369,No,No,No,No,No
+2022-2023,2026,Graduate,Female,Unknown/Unreported,Torrey Pines High School,DESN,BUS132,A,B,Yes,Awarded,424,No,Yes,No,Not Applicable,No
+2021-2022,2024,Graduate,Male,Asian,Canyon Crest Academy,ART,ART251,A,B,Yes,Awarded,10672,No,No,No,Not Applicable,No
+2022-2023,2024,Graduate,Male,White,San Dieguito Academy,FILM,MAT125,A,A,Yes,Awarded,12028,No,No,No,No,No
+2021-2022,2022,Graduate,Male,White,El Camino High School,BUS,BUS120,F,A,No,Denied,3841,No,Not Applicable,No,No,No
+2020-2021,2021,Graduate,Male,White,Sage Creek High School,BUS,NURS151,A,B,Yes,Awarded,4128,No,No,No,No,No
+2022-2023,2026,Graduate,Female,Hispanic,La Costa Canyon High School,MAT,ART251,A,A,Yes,Awarded,12796,No,Not Applicable,No,No,No
+2021-2022,2022,Graduate,Male,White,Canyon Crest Academy,BUS,BUS132,A,F,No,Denied,1474,No,No,Yes,No,No
+2020-2021,2022,Graduate,Male,White,Canyon Crest Academy,DESN,NURS155,A,A,Yes,Awarded,10706,Not Applicable,Yes,No,No,Not Applicable
+2020-2021,2022,Graduate,Male,Asian,San Dieguito Academy,BUS,BUS130,C,A,Yes,Denied,6341,No,No,No,No,No
+2020-2021,2021,Graduate,Unknown/Unreported,White,San Dieguito Academy,CS,CS101,A,B,Yes,Awarded,9771,No,No,No,No,No
+2021-2022,2023,Graduate,Male,White,Canyon Crest Academy,HORT,AUTO130,A,A,Yes,Awarded,511,No,No,Not Applicable,No,No
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,BUS,BUS130,A,A,Yes,Denied,12210,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Unknown/Unreported,Torrey Pines High School,BUS,HORT127,,D,Yes,Awarded,10674,No,No,No,No,Not Applicable
+2020-2021,2024,Graduate,Male,White,Carlsbad High School,BUS,BUS132,C,A,Yes,Awarded,1731,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Male,Hispanic,Tri-City Christian School,BUS,ART251,B,A,Yes,Awarded,11715,Not Applicable,No,Not Applicable,Not Applicable,No
+2022-2023,2023,Graduate,Male,White,Sage Creek High School,ART,BUS132,A,A,Yes,Denied,8927,No,No,No,No,No
+2022-2023,2022,Graduate,Female,Hispanic,Canyon Crest Academy,ACCT,ACCT158,A,A,Yes,Awarded,12244,Yes,No,Yes,No,No
+2022-2023,2023,Not Yet a Graduate,Male,White,Torrey Pines High School,BUS,BUS120,B,A,Yes,Awarded,645,Yes,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2023,Graduate,Male,White,La Costa Canyon High School,BUS,NURS151,A,A,Yes,Denied,104,No,No,No,No,No
+2021-2022,2023,Not Yet a Graduate,Female,Hispanic,Canyon Crest Academy,ART,AUTO102,A,A,Yes,Awarded,7575,Not Applicable,No,Not Applicable,No,No
+2021-2022,2025,Graduate,Male,Unknown/Unreported,La Costa Canyon High School,MAP,BUS132,A,A,Yes,Awarded,4190,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Asian,Torrey Pines High School,BUS,BUS120,A,B,Yes,Awarded,7330,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2021,Graduate,Male,Hispanic,Sage Creek High School,BUS,CS101,A,A,Yes,Awarded,1526,No,No,No,No,No
+2021-2022,2022,Graduate,Female,Asian,Altus Schools,BUS,BUS120,A,A,Yes,Awarded,9791,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,1878,Not Applicable,No,Not Applicable,Not Applicable,No
+2022-2023,2023,Graduate,Male,Asian,Canyon Crest Academy,BUS,ACCT158,A,A,Yes,Awarded,1958,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,White,Sage Creek High School,AUTO,BUS120,B,A,Yes,Awarded,978,Not Applicable,Yes,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Male,Asian,Torrey Pines High School,ART,ART251,B,B,No,Awarded,5035,No,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Graduate,Female,Asian,Carlsbad High School,ART,BUS130,A,C,Yes,Denied,9355,Not Applicable,No,No,Not Applicable,No
+2022-2023,2024,Graduate,Male,White,La Costa Canyon High School,AUTO,AUTO102,A,A,Yes,Awarded,5015,No,No,No,No,Not Applicable
+2022-2023,2026,Graduate,Male,White,Oceanside High School,BUS,BUS120,A,B,Yes,Awarded,7146,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Female,Asian,Canyon Crest Academy,BUS,CS101,A,C,Yes,Awarded,5648,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2025,Graduate,Female,White,San Dieguito Academy,ART, ACCT101,B,A,No,Awarded,12940,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Male,Two or More Races,Canyon Crest Academy,BUS,BUS299,,A,Yes,Awarded,8775,No,No,No,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Male,Hispanic,El Camino High School,NURS,BUS130,A,A,Yes,Awarded,12047,No,No,No,No,No
+2022-2023,2027,Not Yet a Graduate,Female,White,Oceanside High School,HORT,MAT110,A,B,Yes,Awarded,6516,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Graduate,Female,Middle Eastern or North African,Altus Schools,DESN,NURS155,B,,Yes,Awarded,9551,No,No,No,No,Not Applicable
+2022-2023,2024,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,5715,No,Not Applicable,Not Applicable,Not Applicable,No
+2020-2021,2021,Graduate,Unknown/Unreported,Hispanic,Torrey Pines High School,BUS,BUS120,A,B,Yes,Awarded,11536,No,No,No,No,No
+2020-2021,2023,Graduate,Unknown/Unreported,White,Torrey Pines High School,BUS,BUS132,B,A,Yes,Awarded,8571,Not Applicable,Not Applicable,No,Not Applicable,No
+2022-2023,2023,Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,13395,Not Applicable,Not Applicable,No,No,No
+2022-2023,2025,Graduate,Female,Asian,Canyon Crest Academy,ART,ART253,A,A,Yes,Awarded,5221,Yes,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2023,Not Yet a Graduate,Female,White,Sage Creek High School,ART,ART251,A,A,Yes,Awarded,9262,No,No,No,No,Not Applicable
+2021-2022,2021,Graduate,Male,White,Torrey Pines High School,MAT,BUS132,A,A,Yes,Awarded,11464,No,No,No,No,No
+2020-2021,2023,Graduate,Female,White,La Costa Canyon High School,BUS,NURS151,A,B,Yes,Awarded,988,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2019,Graduate,Male,Hispanic,Sage Creek High School,ART,MAP100,A,A,Yes,Awarded,4280,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,10480,Yes,No,Not Applicable,No,Not Applicable
+2020-2021,2024,Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,6734,No,No,Not Applicable,No,No
+2020-2021,2020,Graduate,Male,Two or More Races,Torrey Pines High School,BUS,NURS151,A,A,Yes,Awarded,10843,No,No,No,No,No
+2020-2021,2020,Graduate,Unknown/Unreported,Hispanic,Torrey Pines High School,BUS,ART253,B,A,Yes,Denied,12939,No,No,No,No,No
+2022-2023,2023,Graduate,Unknown/Unreported,Unknown/Unreported,Torrey Pines High School,BUS,ACCT158,A,A,Yes,Denied,9943,Not Applicable,No,No,Not Applicable,No
+2022-2023,2024,Not Yet a Graduate,Male,White,Canyon Crest Academy,NURS,ART251,A,A,No,Awarded,3844,No,Not Applicable,No,No,No
+2020-2021,2022,Graduate,Unknown/Unreported,Asian,Sage Creek High School,MAT,AUTO102,F,A,No,Awarded,6002,No,No,No,No,No
+2020-2021,2024,Graduate,Male,Two or More Races,Torrey Pines High School,AUTO,DESN100,C,A,Yes,Denied,2870,No,No,No,No,No
+2022-2023,2024,Graduate,Unknown/Unreported,Asian,Sage Creek High School,DESN,FILM101,A,A,Yes,Awarded,208,No,No,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,Asian,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,1853,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Female,Asian,La Costa Canyon High School,CS,BUS120,A,A,Yes,Awarded,1188,No,No,No,No,No
+2021-2022,2025,Graduate,Female,Black/African American,Torrey Pines High School,NURS,BUS130,A,B,No,Awarded,8506,No,No,No,No,Not Applicable
+2020-2021,2024,Graduate,Male,Hispanic,Canyon Crest Academy,ACCT,BUS120,B,A,Yes,Denied,7085,No,No,No,No,No
+2021-2022,2020,Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,4505,No,No,No,No,No
+2020-2021,2023,Not Yet a Graduate,Female,Unknown/Unreported,Sage Creek High School,ART,BUS130,A,C,Yes,Awarded,6463,Not Applicable,Yes,No,No,No
+2022-2023,2025,Graduate,Male,White,El Camino High School,MAT,BUS132,A,B,Yes,Denied,14,Not Applicable,Not Applicable,Not Applicable,No,No
+2021-2022,2022,Graduate,Male,Unknown,Torrey Pines High School,NURS,NURS151,A,,No,Awarded,7095,No,Yes,No,No,No
+2021-2022,2024,Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,6481,Not Applicable,Not Applicable,No,No,No
+2021-2022,2023,Graduate,Male,Two or More Races,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,13206,No,No,Not Applicable,Not Applicable,No
+2021-2022,2023,Graduate,Male,Hispanic,El Camino High School,AUTO,BUS132,A,A,Yes,Awarded,2669,Yes,No,No,No,No
+2022-2023,2023,Graduate,Female,White,Torrey Pines High School,CS,BUS120,A,A,Yes,Awarded,9819,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Unknown/Unreported,La Costa Canyon High School,ACCT,BUS130,A,C,Yes,Awarded,6598,No,No,No,No,No
+2020-2021,2020,Graduate,Female,Asian,Torrey Pines High School,BUS,AUTO102,D,A,Yes,Awarded,5756,No,No,No,No,No
+2022-2023,2023,Graduate,Male,Hispanic,Canyon Crest Academy,ART,DESN100,A,A,Yes,Awarded,1940,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Unknown/Unreported,White,Canyon Crest Academy,AUTO,BUS132,A,A,Yes,Awarded,9636,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Not Yet a Graduate,Male,White,Canyon Crest Academy,MAT,BUS130,A,A,Yes,Awarded,8306,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Female,Hispanic,Torrey Pines High School,NURS,BUS132,A,A,Yes,Awarded,1502,Not Applicable,Not Applicable,No,No,Not Applicable
+2021-2022,2025,Graduate,Female,Unknown/Unreported,San Dieguito Academy,MAT,AUTO102,A,,Yes,Awarded,9939,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Female,Hispanic,Torrey Pines High School,BUS,CS101,,A,Yes,Awarded,6930,No,No,No,Not Applicable,No
+2020-2021,2024,Graduate,Female,Unknown/Unreported,La Costa Canyon High School,BUS,BUS120,B,A,Yes,Awarded,11357,No,No,No,No,No
+2021-2022,2021,Graduate,Male,Asian,El Camino High School,ART,BUS132,C,A,Yes,Awarded,1101,No,No,No,No,No
+2020-2021,2024,Graduate,Unknown/Unreported,Unknown/Unreported,Torrey Pines High School,BUS,AUTO102,A,B,Yes,Awarded,10832,No,No,No,No,No
+2022-2023,2022,Graduate,Male,American Indian/Alaska Native,Mission Vista High School,BUS,BUS120,A,B,Yes,Awarded,829,Not Applicable,No,Not Applicable,No,No
+2022-2023,2026,Graduate,Female,Unknown/Unreported,Torrey Pines High School,BUS,BUS130,B,B,Yes,Awarded,13189,Not Applicable,No,Not Applicable,Yes,Not Applicable
+2020-2021,2023,Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,11287,No,No,No,No,No
+2021-2022,2024,Graduate,Male,White,La Costa Canyon High School,ACCT,BUS120,A,C,Yes,Awarded,10856,No,No,Yes,No,Not Applicable
+2020-2021,2023,Graduate,Male,Hispanic,La Costa Canyon High School,ART,FILM101,A,A,Yes,Awarded,1056,Not Applicable,No,No,No,No
+2021-2022,2023,Graduate,Male,Asian,El Camino High School,BUS,BUS132,B,B,Yes,Awarded,5561,Not Applicable,No,No,No,No
+2020-2021,2024,Graduate,Female,White,Oceanside High School,NURS,BUS120,A,B,Yes,Awarded,4790,Yes,No,No,No,No
+2021-2022,2022,Graduate,Male,White,Torrey Pines High School,ART,ART251,B,A,No,Awarded,8716,No,No,No,No,No
+2022-2023,2025,Graduate,Male,Hispanic,Carlsbad High School,BUS,BUS132,B,B,Yes,Awarded,11146,Not Applicable,No,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Canyon Crest Academy,ACCT,BUS120,A,A,Yes,Awarded,8005,Not Applicable,No,No,No,No
+2020-2021,2021,Graduate,Male,White,Torrey Pines High School,BUS,BUS132,,A,Yes,Awarded,2170,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Two or More Races,Canyon Crest Academy,NURS,BUS120,A,A,Yes,Awarded,8876,Not Applicable,No,Not Applicable,Not Applicable,No
+2021-2022,2023,Not Yet a Graduate,Male,White,Torrey Pines High School,ACCT,BUS120,A,A,Yes,Denied,7605,No,No,Not Applicable,No,Not Applicable
+2021-2022,2022,Graduate,Male,White,Torrey Pines High School,BUS,ACCT158,A,,No,Awarded,2628,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,La Costa Canyon High School,CHLD,CS101,B,B,Yes,Awarded,579,Yes,Not Applicable,No,Not Applicable,No
+2020-2021,2022,Graduate,Female,White,Canyon Crest Academy,BUS,BUS132,C,A,No,Awarded,13599,No,No,No,No,No
+2021-2022,2024,Graduate,Female,White,Torrey Pines High School,CHLD,CS101,B,,Yes,Denied,13686,No,No,Not Applicable,No,No
+2020-2021,2023,Not Yet a Graduate,Unknown/Unreported,White,Oceanside High School,ART,DESN100,A,A,Yes,Awarded,11412,No,No,No,Not Applicable,No
+2022-2023,2027,Not Yet a Graduate,Male,Unknown/Unreported,La Costa Canyon High School,ART,MAT110,A,A,Yes,Awarded,6533,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Male,Black/African American,Torrey Pines High School,DESN,BUS130,A,B,Yes,Awarded,8478,Yes,No,No,No,No
+2021-2022,2023,Graduate,Unknown/Unreported,Two or More Races,Torrey Pines High School,BUS,HORT127,A,A,Yes,Awarded,6136,Yes,No,Not Applicable,No,No
+2020-2021,2021,Graduate,Female,Two or More Races,Carlsbad High School,ART,AUTO130,A,N,No,Denied,3035,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Two or More Races,Canyon Crest Academy,CS,CS111,A,A,Yes,Awarded,3431,Yes,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Hispanic,El Camino High School,MAT,ART251,A,A,Yes,Awarded,760,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,524,No,No,No,No,No
+2021-2022,2023,Graduate,Female,Two or More Races,Oceanside High School,BUS,BUS120,A,A,Yes,Awarded,12997,No,Not Applicable,No,No,No
+2022-2023,2025,Graduate,Male,Asian,La Costa Canyon High School,BUS,BUS130,A,B,Yes,Awarded,1651,Not Applicable,Yes,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Graduate,Male,White,El Camino High School,ACCT,BUS120,A,A,Yes,Denied,11420,Not Applicable,No,Not Applicable,Not Applicable,No
+2020-2021,2023,Graduate,Unknown/Unreported,Hispanic,Carlsbad High School,ART,FILM101,A,A,Yes,Awarded,11238,No,Not Applicable,No,Not Applicable,No
+2020-2021,2022,Graduate,Male,Hispanic,San Dieguito Academy,ART,BUS299,F,,Yes,Awarded,1376,No,No,No,No,No
+2022-2023,2025,Graduate,Male,Hispanic,Oceanside High School,BUS,BUS130,A,A,Yes,Awarded,4437,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Hispanic,La Costa Canyon High School,FILM,HORT166,A,A,Yes,Awarded,5337,No,No,No,No,No
+2022-2023,2025,Graduate,Female,Unknown/Unreported,Torrey Pines High School,MTEC,DESN207,A,A,Yes,Awarded,6026,Yes,Not Applicable,No,No,No
+2021-2022,2024,Graduate,Male,Two or More Races,Canyon Crest Academy,BUS,BUS120,A,B,Yes,Awarded,2925,Not Applicable,No,No,No,Not Applicable
+2020-2021,2023,Graduate,Male,Two or More Races,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,9331,Yes,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,Hispanic,Sage Creek High School,NURS,ART251,A,,Yes,Awarded,550,Not Applicable,Not Applicable,No,No,No
+2022-2023,2024,Graduate,Female,White,Torrey Pines High School,NURS,BUS130,A,A,No,Denied,9836,Yes,No,Not Applicable,No,No
+2021-2022,2024,Not Yet a Graduate,Male,White,Torrey Pines High School,NURS,ART251,A,A,Yes,Awarded,13713,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Unknown/Unreported,Torrey Pines High School,BUS,BUS120,B,B,Yes,Awarded,9307,Not Applicable,Not Applicable,No,Not Applicable,No
+2022-2023,2025,Graduate,Female,Unknown,Oceanside High School,BUS,BUS132,,A,Yes,Awarded,3441,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2021,Graduate,Female,Hispanic,Torrey Pines High School,NURS,BUS299,A,A,Yes,Awarded,5076,No,No,Not Applicable,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Torrey Pines High School,BUS,ART251,A,A,Yes,Awarded,11412,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Graduate,Male,White,Torrey Pines High School,NURS,BUS130,A,B,Yes,Awarded,6655,Not Applicable,Not Applicable,No,No,Not Applicable
+2021-2022,2023,Graduate,Female,Asian,Carlsbad High School,MAT,ART251,A,,No,Awarded,8074,No,Not Applicable,No,No,No
+2021-2022,2022,Graduate,Male,Asian,Torrey Pines High School,BUS,BUS130,A,C,Yes,Awarded,10013,No,No,No,No,No
+2022-2023,2025,Graduate,Female,Asian,Torrey Pines High School,DESN,DESN100,A,A,Yes,Awarded,7156,Not Applicable,No,No,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Female,White,Torrey Pines High School,BUS,BUS132,A,C,Yes,Awarded,12318,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Torrey Pines High School,ART,ART253,B,A,No,Awarded,3873,Not Applicable,Not Applicable,No,No,No
+2020-2021,2024,Not Yet a Graduate,Female,White,Carlsbad High School,DESN,MTEC110,,A,Yes,Denied,1538,Not Applicable,Not Applicable,No,No,No
+2022-2023,2026,Graduate,Female,White,Canyon Crest Academy,BUS,NURS151,A,A,Yes,Awarded,11511,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2021-2022,2023,Graduate,Female,Middle Eastern or North African,Oceanside High School,AUTO,BUS132,A,A,Yes,Denied,8203,No,No,No,No,No
+2022-2023,2023,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,F,Yes,Awarded,6106,No,Not Applicable,No,No,No
+2021-2022,2022,Graduate,Male,Hispanic,Altus Schools,BUS,BUS120,A,A,Yes,Denied,12584,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,,Yes,Awarded,13636,No,No,No,Not Applicable,No
+2022-2023,2024,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,BUS,BUS130,A,B,Yes,Awarded,3913,No,No,Yes,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Unknown,El Camino High School,BUS,BUS120,A,A,Yes,Awarded,12413,No,No,No,No,No
+2020-2021,2022,Graduate,Male,White,La Costa Canyon High School,BUS,BUS120,C,B,Yes,Awarded,8244,Yes,No,No,No,No
+2022-2023,2024,Graduate,Female,Unknown/Unreported,Torrey Pines High School,FILM,HORT127,A,I,Yes,Awarded,8563,No,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,BUS,BUS130,B,B,Yes,Awarded,2549,No,No,No,No,No
+2020-2021,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,B,Yes,Awarded,8435,No,No,No,No,No
+2021-2022,2024,Graduate,Female,Hispanic,Sage Creek High School,KINE,DESN100,A,A,No,Denied,5646,No,No,Not Applicable,No,No
+2021-2022,2020,Graduate,Male,Two or More Races,Oceanside High School,BUS,AUTO130,A,B,Yes,Awarded,7363,No,No,No,No,No
+2022-2023,2025,Graduate,Male,White,La Costa Canyon High School,BUS,BUS130,B,A,Yes,Awarded,9730,Yes,No,No,No,Not Applicable
+2021-2022,2023,Graduate,Unknown/Unreported,Asian,Torrey Pines High School,MAT,ART251,A,A,Yes,Awarded,554,No,No,No,No,No
+2020-2021,2023,Graduate,Female,White,Torrey Pines High School,BUS,BUS132,A,A,Yes,Awarded,5859,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,CS,CS111,A,B,Yes,Awarded,298,Not Applicable,No,Not Applicable,Not Applicable,No
+2021-2022,2025,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,11034,Not Applicable,Not Applicable,Not Applicable,No,No
+2020-2021,2023,Graduate,Male,Unknown/Unreported,Torrey Pines High School,NURS,BUS130,C,B,No,Awarded,7085,Not Applicable,No,No,No,Not Applicable
+2021-2022,2021,Graduate,Male,White,La Costa Canyon High School,BUS,BUS132,A,A,No,Awarded,4640,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Asian,San Dieguito Academy,DESN,MAP50,B,C,Yes,Awarded,6812,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Male,White,San Dieguito Academy,ART,DESN100,B,B,Yes,Awarded,6893,No,No,No,No,No
+2021-2022,2023,Graduate,Female,Asian,Oceanside High School,BUS,BUS120,B,A,Yes,Awarded,9374,Yes,No,Not Applicable,No,No
+2020-2021,2024,Graduate,Female,Two or More Races,Sage Creek High School,ART,AUTO102,A,A,No,Awarded,13117,Yes,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Unknown/Unreported,White,Canyon Crest Academy,BUS,BUS132,B,A,No,Awarded,13092,Not Applicable,No,No,No,Not Applicable
+2022-2023,2024,Graduate,Male,White,Altus Schools,ACCT,BUS120,A,B,Yes,Denied,6162,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Sage Creek High School,BUS,ART251,B,B,Yes,Awarded,12288,No,Not Applicable,No,No,No
+2022-2023,2023,Graduate,Female,White,Torrey Pines High School,ART,MTEC110,A,A,Yes,Denied,1541,No,No,No,No,No
+2020-2021,2021,Graduate,Male,White,El Camino High School,DESN,ART251,A,A,Yes,Awarded,6664,Yes,No,No,No,No
+2020-2021,2023,Graduate,Female,Asian,Mission Vista High School,ART,DESN100,A,,Yes,Awarded,8117,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Unknown/Unreported,Oceanside High School,ART,AUTO102,A,A,No,Denied,2669,Not Applicable,Not Applicable,No,Not Applicable,No
+2021-2022,2023,Not Yet a Graduate,Male,White,La Costa Canyon High School,CS,CS101,B,B,Yes,Awarded,3367,Not Applicable,No,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,White,Sage Creek High School,ART,CS101,B,A,Yes,Denied,3453,No,Not Applicable,No,No,No
+2021-2022,2023,Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,9081,No,No,No,No,No
+2022-2023,2024,Graduate,Female,White,Torrey Pines High School,BUS,BUS120,A,B,Yes,Awarded,7015,Yes,No,Yes,No,No
+2022-2023,2026,Not Yet a Graduate,Male,Hispanic,Altus Schools,MAT,BUS132,B,A,Yes,Awarded,5357,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Male,Two or More Races,Sage Creek High School,BUS,BUS120,A,,Yes,Awarded,6020,No,Not Applicable,No,No,No
+2021-2022,2021,Graduate,Female,White,Oceanside High School,ART,BUS130,A,A,Yes,Awarded,5546,No,No,No,No,No
+2020-2021,2024,Graduate,Female,White,San Dieguito Academy,BUS,NURS151,A,A,Yes,Denied,3116,No,No,No,No,No
+2021-2022,2026,Graduate,Female,Unknown/Unreported,Oceanside High School,ACCT,BUS120,A,A,Yes,Awarded,1086,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Male,Asian,Torrey Pines High School,BUS,BUS120,A,B,No,Awarded,2470,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2022,Graduate,Female,White,Canyon Crest Academy,BUS,BUS130,A,A,Yes,Awarded,6955,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,White,San Dieguito Academy,ART,ART251,A,B,Yes,Awarded,8012,Yes,Not Applicable,No,No,No
+2020-2021,2021,Graduate,Male,Unknown/Unreported,Torrey Pines High School,BUS,ACCT158,A,B,Yes,Awarded,11639,Yes,No,No,No,No
+2021-2022,2021,Graduate,Female,Two or More Races,Carlsbad High School,ART,BUS132,A,A,Yes,Denied,5078,No,No,No,No,No
+2021-2022,2022,Graduate,Female,White,Mission Vista High School,CHLD,ACCT158,F,A,Yes,Awarded,6161,No,No,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,Asian,San Dieguito Academy,BUS,BUS120,A,B,Yes,Awarded,10972,Yes,No,No,No,Not Applicable
+2022-2023,2023,Not Yet a Graduate,Male,Two or More Races,Sage Creek High School,BUS,BUS130,A,A,Yes,Awarded,1577,Yes,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Two or More Races,Carlsbad High School,ART,ART251,A,,Yes,Awarded,10384,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Male,Hispanic,Sage Creek High School,ACCT,BUS120,A,A,No,Awarded,9260,Yes,Not Applicable,No,No,No
+2021-2022,2025,Graduate,Female,Two or More Races,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,12701,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Male,Two or More Races,Poway High School,ACCT,BUS120,A,A,Yes,Awarded,6292,No,No,No,No,No
+2022-2023,2025,Graduate,Male,White,Torrey Pines High School,ART,BUS132,A,A,Yes,Denied,1060,Not Applicable,No,Not Applicable,No,Not Applicable
+2021-2022,2025,Graduate,Unknown/Unreported,White,Carlsbad High School,ART,ART251,A,A,Yes,Awarded,12532,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2020,Graduate,Male,White,La Costa Canyon High School,ACCT,BUS120,A,A,Yes,Awarded,4773,No,No,No,No,No
+2022-2023,2023,Graduate,Female,White,Oceanside High School,NURS,BUS130,C,B,Yes,Awarded,11997,Yes,Yes,No,No,Not Applicable
+2020-2021,2022,Graduate,Female,Asian,San Dieguito Academy,ACCT,BUS120,B,A,Yes,Awarded,9227,No,No,No,No,No
+2021-2022,2021,Graduate,Male,Asian,La Costa Canyon High School,FILM,CSIT101,A,A,Yes,Awarded,6496,No,No,No,No,No
+2020-2021,2024,Graduate,Female,Unknown/Unreported,Canyon Crest Academy,HORT,BUS130,A,,Yes,Denied,12022,No,No,Not Applicable,No,Not Applicable
+2020-2021,2024,Graduate,Female,Asian,Mission Vista High School,CS,CS101,A,A,Yes,Awarded,7802,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Canyon Crest Academy,AUTO,BUS132,A,A,Yes,Awarded,11648,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Middle Eastern or North African,San Dieguito Academy,BUS,BUS120,B,A,Yes,Awarded,11362,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Graduate,Female,Hispanic,Carlsbad High School,HORT,DESN100,A,,Yes,Awarded,11180,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Female,White,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,5170,No,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2024,Graduate,Male,Two or More Races,El Camino High School,AUTO,NURS151,A,C,Yes,Awarded,12577,No,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2023,Graduate,Male,Asian,La Costa Canyon High School,BUS,DESN100,D,A,Yes,Awarded,5825,No,No,No,No,No
+2020-2021,2023,Graduate,Unknown/Unreported,White,La Costa Canyon High School,BUS,BUS130,C,A,Yes,Awarded,6640,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Black/African American,Canyon Crest Academy,NURS,MAT110,A,A,Yes,Awarded,1777,No,No,No,No,No
+2022-2023,2025,Graduate,Male,White,Poway High School,ACCT,BUS120,A,A,Yes,Awarded,9296,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Male,Unknown/Unreported,Canyon Crest Academy,ART,FILM101,A,A,Yes,Denied,5415,Not Applicable,Yes,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Male,Unknown/Unreported,La Costa Canyon High School,MTEC,MAP100,A,A,Yes,Awarded,3162,No,No,No,No,No
+2022-2023,2022,Graduate,Male,Hispanic,Sage Creek High School,HORT,ART251,A,A,Yes,Awarded,470,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS132,B,A,Yes,Awarded,4194,No,No,No,No,No
+2022-2023,2023,Graduate,Female,Two or More Races,La Costa Canyon High School,CS,BUS120,A,B,Yes,Awarded,6925,Not Applicable,Not Applicable,No,Not Applicable,No
+2020-2021,2023,Graduate,Female,White,Torrey Pines High School,BUS,AUTO102,A,D,Yes,Awarded,12504,No,No,No,No,No
+2020-2021,2021,Graduate,Female,Asian,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,7297,No,No,No,No,No
+2022-2023,2024,Graduate,Female,White,Canyon Crest Academy,BUS,NURS151,A,A,Yes,Awarded,10897,Not Applicable,No,No,No,No
+2022-2023,2025,Graduate,Female,White,Torrey Pines High School,BUS,BUS132,A,A,Yes,Awarded,11455,No,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS299,,,Yes,Awarded,11327,No,No,Not Applicable,No,No
+2022-2023,2022,Graduate,Female,Hispanic,San Dieguito Academy,BUS,NURS151,A,A,Yes,Awarded,11512,No,No,Not Applicable,Not Applicable,No
+2022-2023,2025,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,MAT110,A,A,Yes,Awarded,4633,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Female,Asian,Torrey Pines High School,BUS,BUS132,A,A,Yes,Awarded,466,No,No,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Graduate,Female,White,Oceanside High School,BUS,BUS120,A,B,Yes,Awarded,5828,No,Not Applicable,No,Not Applicable,Not Applicable
+2021-2022,2023,Not Yet a Graduate,Unknown/Unreported,Asian,Mission Vista High School,BUS,BUS132,A,A,Yes,Awarded,1942,Yes,No,Not Applicable,No,Not Applicable
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,10105,No,No,No,No,Not Applicable
+2020-2021,2020,Graduate,Male,Asian,Canyon Crest Academy,AUTO,AUTO102,A,N,No,Awarded,5334,No,No,No,No,No
+2022-2023,2024,Graduate,Male,Two or More Races,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,10642,No,No,No,No,No
+2022-2023,2022,Graduate,Male,White,Sage Creek High School,BUS,ART251,A,A,Yes,Awarded,5013,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Carlsbad High School,ART,ART251,A,A,No,Awarded,2153,No,No,No,No,No
+2020-2021,2023,Graduate,Female,Asian,San Dieguito Academy,BUS,BUS130,A,A,Yes,Awarded,4199,No,No,No,No,Not Applicable
+2021-2022,2022,Graduate,Male,White,Oceanside High School,BUS,BUS120,A,B,Yes,Awarded,4413,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Male,Hispanic,San Dieguito Academy,MAT,ART251,C,B,Yes,Awarded,7948,Not Applicable,Not Applicable,No,No,No
+2022-2023,2025,Graduate,Female,Asian,San Dieguito Academy,NURS,BUS132,A,B,Yes,Awarded,3769,Not Applicable,No,Not Applicable,No,Not Applicable
+2020-2021,2025,Graduate,Female,White,Sage Creek High School,BUS,BUS120,,A,Yes,Awarded,11215,No,No,Not Applicable,No,No
+2020-2021,2020,Graduate,Male,White,Carlsbad High School,BUS,BUS120,B,B,Yes,Awarded,1731,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,MAT,HORT127,,A,No,Denied,1255,Yes,No,Not Applicable,Not Applicable,No
+2020-2021,2023,Graduate,Female,Unknown/Unreported,Canyon Crest Academy,BUS,AUTO102,A,B,Yes,Awarded,1378,No,No,No,Not Applicable,No
+2022-2023,2023,Graduate,Female,Unknown/Unreported,Altus Schools,BUS,ART251,A,A,Yes,Awarded,1634,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,466,Yes,Not Applicable,No,No,Not Applicable
+2021-2022,2026,Not Yet a Graduate,Female,White,Oceanside High School,BUS,BUS120,C,A,Yes,Awarded,252,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Male,Unknown/Unreported,San Dieguito Academy,BUS,BUS120,N,B,Yes,Awarded,12710,Yes,Not Applicable,No,No,Not Applicable
+2020-2021,2022,Graduate,Male,Black/African American,Torrey Pines High School,DESN,MTEC110,A,B,Yes,Awarded,980,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,Carlsbad High School,BUS,BUS132,A,A,Yes,Awarded,13240,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2022,Graduate,Female,White,Oceanside High School,BUS,NURS151,,N,No,Denied,572,No,No,No,No,No
+2020-2021,2024,Graduate,Female,White,Torrey Pines High School,BUS,BUS130,A,A,Yes,Denied,7112,No,No,No,No,No
+2020-2021,2021,Graduate,Female,Asian,La Costa Canyon High School,ACCT,BUS120,A,A,No,Awarded,3790,No,No,Not Applicable,No,No
+2022-2023,2022,Graduate,Unknown/Unreported,White,Torrey Pines High School,BUS,BUS120,B,B,Yes,Awarded,10258,Not Applicable,Not Applicable,Not Applicable,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,Canyon Crest Academy,BUS,BUS132,A,B,Yes,Awarded,4061,Not Applicable,Not Applicable,Not Applicable,No,No
+2021-2022,2025,Graduate,Female,White,Torrey Pines High School,BUS,BUS132,A,A,Yes,Awarded,12699,No,Not Applicable,Not Applicable,No,Not Applicable
+2021-2022,2021,Graduate,Female,Middle Eastern or North African,Torrey Pines High School,NURS,BUS132,B,A,Yes,Denied,8923,No,No,No,No,No
+2021-2022,2025,Graduate,Male,Two or More Races,San Dieguito Academy,CS,BUS120,A,A,Yes,Awarded,9603,Yes,No,No,No,No
+2021-2022,2023,Graduate,Female,Unknown/Unreported,Canyon Crest Academy,CS,CS111,A,A,Yes,Awarded,10193,No,Not Applicable,No,No,Not Applicable
+2022-2023,2023,Graduate,Male,Unknown/Unreported,Tri-City Christian School,BUS,BUS120,A,B,Yes,Denied,5530,No,Not Applicable,No,Not Applicable,No
+2021-2022,2024,Not Yet a Graduate,Male,Two or More Races,Canyon Crest Academy,BUS,BUS130,A,F,Yes,Awarded,6900,Yes,Not Applicable,No,No,No
+2020-2021,2024,Graduate,Nonbinary,White,El Camino High School,BUS,BUS120,,I,No,Awarded,3423,No,Not Applicable,No,No,No
+2020-2021,2020,Graduate,Male,White,Carlsbad High School,CS,ACCT158,A,A,No,Denied,12695,No,Not Applicable,No,No,No
+2020-2021,2021,Graduate,Unknown/Unreported,Hispanic,Oceanside High School,CS,CS111,A,A,Yes,Awarded,3033,Not Applicable,No,No,No,No
+2021-2022,2021,Graduate,Male,White,La Costa Canyon High School,BUS,BUS299,A,A,Yes,Awarded,9039,No,No,No,No,No
+2020-2021,2022,Not Yet a Graduate,Male,White,Torrey Pines High School,BUS,BUS132,A,A,Yes,Awarded,10154,No,No,No,Not Applicable,No
+2022-2023,2026,Graduate,Male,White,Oceanside High School,BUS,BUS120,C,A,Yes,Awarded,11480,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2023,Graduate,Male,White,Sage Creek High School,BUS,BUS132,A,A,No,Denied,6741,Not Applicable,No,No,No,No
+2022-2023,2026,Graduate,Male,White,La Costa Canyon High School,ACCT,CS111,A,A,Yes,Awarded,3675,No,No,No,Yes,Not Applicable
+2021-2022,2022,Graduate,Male,Hispanic,Torrey Pines High School,AUTO,BUS132,,A,No,Awarded,5613,No,No,No,No,No
+2020-2021,2023,Graduate,Female,White,Torrey Pines High School,FILM,CS113,A,A,Yes,Awarded,11150,No,No,No,No,No
+2022-2023,2025,Graduate,Female,White,Altus Schools,CHLD,CS111,A,B,Yes,Denied,11843,Not Applicable,Not Applicable,No,Not Applicable,No
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,La Costa Canyon High School,BUS,BUS120,C,A,Yes,Awarded,2556,No,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2025,Graduate,Female,Asian,Torrey Pines High School,BUS,NURS151,A,A,Yes,Awarded,359,Yes,No,Not Applicable,No,No
+2020-2021,2023,Graduate,Male,Black/African American,Canyon Crest Academy,ACCT,BUS120,C,A,Yes,Awarded,175,No,No,No,No,No
+2020-2021,2023,Graduate,Male,Two or More Races,El Camino High School,BUS,BUS120,B,A,Yes,Awarded,2240,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Male,White,Oceanside High School,ACCT,NURS151,B,A,Yes,Awarded,2010,No,No,Not Applicable,Yes,Not Applicable
+2021-2022,2023,Graduate,Male,White,Canyon Crest Academy,ART,BUS130,,N,No,Denied,4825,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,White,Sage Creek High School,ART,ART251,A,A,Yes,Awarded,5455,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Male,Hispanic,Canyon Crest Academy,NURS,AUTO102,A,N,Yes,Denied,2987,No,Not Applicable,No,No,No
+2020-2021,2024,Graduate,Female,Hispanic,Canyon Crest Academy,NURS,BUS132,A,,Yes,Awarded,9988,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2021-2022,2023,Graduate,Unknown/Unreported,Unknown/Unreported,Sage Creek High School,CS,BUS120,,A,No,Awarded,13633,Yes,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Female,White,Canyon Crest Academy,CS,BUS120,B,A,Yes,Awarded,8604,Yes,No,No,No,No
+2022-2023,2024,Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,,C,Yes,Awarded,503,No,Not Applicable,Yes,No,Not Applicable
+2020-2021,2022,Graduate,Female,White,La Costa Canyon High School,BUS,NURS151,A,A,Yes,Awarded,7492,No,No,No,No,No
+2022-2023,2023,Graduate,Unknown/Unreported,Asian,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,10666,No,No,No,No,No
+2020-2021,2023,Graduate,Female,White,El Camino High School,MAT,BUS132,A,A,Yes,Awarded,12760,No,Not Applicable,Not Applicable,No,No
+2021-2022,2023,Graduate,Female,White,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,12186,No,No,No,No,Not Applicable
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS120,A,C,Yes,Awarded,7129,No,No,No,No,Not Applicable
+2020-2021,2023,Graduate,Male,White,Canyon Crest Academy,MAP,KINE190,A,A,Yes,Awarded,411,No,No,No,No,No
+2022-2023,2023,Graduate,Male,White,Canyon Crest Academy,BUS,HOSP100,A,A,Yes,Awarded,8320,Not Applicable,Not Applicable,Not Applicable,No,No
+2020-2021,2024,Graduate,Female,Asian,Oceanside High School,DESN,FILM101,A,A,Yes,Awarded,7969,No,No,No,No,No
+2021-2022,2025,Not Yet a Graduate,Male,Hispanic,Canyon Crest Academy,DESN,AUTO102,A,A,No,Denied,2233,Yes,Not Applicable,Not Applicable,No,No
+2021-2022,2023,Graduate,Female,White,Torrey Pines High School,AUTO,AUTO102,A,A,Yes,Awarded,9348,No,No,No,No,No
+2022-2023,2024,Graduate,Female,Two or More Races,La Costa Canyon High School,NURS,MAT110,B,A,Yes,Awarded,10942,Yes,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,DESN,FILM101,,A,Yes,Awarded,13153,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Hispanic,Canyon Crest Academy,BUS,AUTO130,A,A,Yes,Awarded,10899,Not Applicable,No,No,No,No
+2020-2021,2025,Not Yet a Graduate,Male,White,Canyon Crest Academy,ART,BUS132,A,A,Yes,Awarded,9048,Yes,No,No,No,Not Applicable
+2021-2022,2025,Not Yet a Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS120,,A,Yes,Denied,3637,Yes,Not Applicable,No,No,Not Applicable
+2022-2023,2025,Graduate,Female,White,Poway High School,BUS,BUS120,B,B,Yes,Awarded,13171,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Not Yet a Graduate,Male,White,Torrey Pines High School,BUS,BUS132,B,A,Yes,Awarded,9923,Not Applicable,No,Not Applicable,No,No
+2022-2023,2025,Graduate,Male,Hispanic,Altus Schools,ART,BUS120,A,B,Yes,Awarded,13305,Yes,No,Not Applicable,No,No
+2021-2022,2023,Graduate,Female,Middle Eastern or North African,El Camino High School,BUS,BUS120,A,A,Yes,Awarded,3423,Yes,No,No,No,No
+2021-2022,2023,Graduate,Male,Hispanic,Sage Creek High School,ART,BUS132,B,B,Yes,Awarded,1447,No,No,No,No,No
+2021-2022,2024,Graduate,Female,Two or More Races,Canyon Crest Academy,ART,ART251,B,B,Yes,Awarded,9296,No,No,No,No,Not Applicable
+2021-2022,2024,Graduate,Unknown/Unreported,Hispanic,Carlsbad High School,BUS,BUS299,A,A,Yes,Awarded,3043,Not Applicable,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,San Dieguito Academy,BUS,BUS120,A,A,Yes,Denied,2300,No,No,No,Not Applicable,No
+2020-2021,2022,Graduate,Male,Hispanic,Sage Creek High School,BUS,BUS132,A,A,Yes,Awarded,9358,No,No,No,No,No
+2022-2023,2024,Graduate,Female,White,Torrey Pines High School,BUS,HORT127,A,A,Yes,Awarded,5264,Yes,Not Applicable,No,Not Applicable,Not Applicable
+2022-2023,2024,Not Yet a Graduate,Male,White,Canyon Crest Academy,CS,CHLD299,A,A,Yes,Awarded,7143,Not Applicable,Not Applicable,Not Applicable,Yes,No
+2022-2023,2025,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,DESN100,C,A,Yes,Awarded,11825,No,No,No,No,Not Applicable
+2022-2023,2026,Graduate,Male,Unknown,Tri-City Christian School,FILM,NURS155,A,A,Yes,Awarded,7986,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Female,Hispanic,La Costa Canyon High School,ART,FILM101,A,A,Yes,Awarded,10805,No,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Sage Creek High School,BUS,BUS130,A,N,Yes,Awarded,11150,Yes,Not Applicable,Not Applicable,Not Applicable,No
+2021-2022,2022,Graduate,Male,Unknown/Unreported,La Costa Canyon High School,BUS,BUS132,A,B,Yes,Awarded,2462,No,No,No,No,No
+2022-2023,2024,Graduate,Female,White,Canyon Crest Academy,ART,ART251,B,A,No,Denied,6524,No,Not Applicable,Not Applicable,No,No
+2022-2023,2023,Graduate,Male,Hispanic,Torrey Pines High School,DESN,HORT127,A,A,Yes,Awarded,6229,No,No,No,Not Applicable,No
+2020-2021,2022,Graduate,Male,White,Sage Creek High School,ACCT,BUS120,A,A,Yes,Awarded,7085,No,No,No,No,No
+2021-2022,2025,Graduate,Male,Asian,Oceanside High School,BUS,BUS120,A,A,Yes,Awarded,13518,No,No,No,No,Not Applicable
+2020-2021,2023,Not Yet a Graduate,Male,White,Carlsbad High School,BUS,NURS151,A,A,Yes,Awarded,5518,No,No,Not Applicable,No,No
+2021-2022,2022,Graduate,Unknown/Unreported,White,Torrey Pines High School,BUS,NURS151,A,A,Yes,Awarded,10018,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,Hispanic,Torrey Pines High School,DESN,BUS132,C,B,Yes,Awarded,8075,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2021,Graduate,Female,Two or More Races,Canyon Crest Academy,CSIT,MAP50,A,A,Yes,Awarded,4357,No,No,No,No,No
+2022-2023,2023,Graduate,Female,White,La Costa Canyon High School,NURS,BUS130,A,B,Yes,Denied,10361,No,No,Not Applicable,No,No
+2020-2021,2025,Not Yet a Graduate,Female,Asian,Torrey Pines High School,BUS,BUS120,C,A,Yes,Awarded,11944,Not Applicable,No,Not Applicable,No,No
+2022-2023,2023,Graduate,Female,White,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,4632,Yes,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Male,Unknown/Unreported,Sage Creek High School,BUS,BUS130,,B,Yes,Awarded,2910,Not Applicable,Not Applicable,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Female,White,Canyon Crest Academy,AUTO,HORT127,A,B,Yes,Awarded,6697,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2022-2023,2027,Not Yet a Graduate,Unknown/Unreported,Unknown/Unreported,Altus Schools,AUTO,NURS151,A,A,Yes,Awarded,4043,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2023,Graduate,Female,Two or More Races,Torrey Pines High School,KINE, ACCT101,B,A,No,Awarded,5859,No,No,No,Not Applicable,No
+2020-2021,2024,Graduate,Female,White,Sage Creek High School,MAT,ART251,A,B,Yes,Awarded,8799,No,No,Not Applicable,No,No
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,CS,CS111,B,B,Yes,Awarded,7157,No,Not Applicable,No,No,No
+2022-2023,2024,Not Yet a Graduate,Male,White,Canyon Crest Academy,BUS,BUS130,B,B,Yes,Awarded,4717,No,No,Not Applicable,No,No
+2022-2023,2024,Graduate,Female,Two or More Races,Oceanside High School,ART,BUS132,D,A,Yes,Awarded,12039,No,No,No,No,No
+2022-2023,2023,Not Yet a Graduate,Male,Asian,Torrey Pines High School,BUS,BUS130,A,C,Yes,Awarded,2662,No,No,No,Not Applicable,No
+2022-2023,2026,Graduate,Male,White,Oceanside High School,BUS,BUS130,A,,Yes,Awarded,9379,Yes,Not Applicable,No,No,Not Applicable
+2021-2022,2023,Graduate,Male,White,San Dieguito Academy,BUS,ART251,A,A,No,Denied,339,No,No,No,No,No
+2022-2023,2025,Graduate,Female,White,Torrey Pines High School,BUS,NURS151,F,,No,Awarded,7471,Not Applicable,No,No,No,No
+2020-2021,2021,Graduate,Male,Hispanic,Carlsbad High School,ACCT,CHLD299,A,,Yes,Awarded,5361,No,No,No,No,No
+2021-2022,2023,Graduate,Male,White,La Costa Canyon High School,ACCT,CHLD299,A,,Yes,Awarded,12960,No,No,No,Not Applicable,No
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,NURS,ART253,A,A,Yes,Awarded,6308,Not Applicable,No,Not Applicable,Not Applicable,No
+2021-2022,2023,Graduate,Male,White,La Costa Canyon High School,BUS,BUS132,A,B,No,Denied,4160,No,Not Applicable,No,Not Applicable,No
+2022-2023,2025,Not Yet a Graduate,Female,Asian,La Costa Canyon High School,BUS,BUS120,A,A,Yes,Awarded,11699,Yes,No,No,No,No
+2022-2023,2024,Graduate,Male,White,La Costa Canyon High School,BUS,ART251,A,A,Yes,Denied,990,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,Canyon Crest Academy,NURS,BUS130,A,A,Yes,Awarded,6866,No,No,No,No,No
+2020-2021,2021,Graduate,Male,Two or More Races,Torrey Pines High School,MAP,MAP100,A,A,Yes,Awarded,7549,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Asian,Canyon Crest Academy,BUS,BUS120,A,A,Yes,Awarded,7230,Not Applicable,Not Applicable,No,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Female,Hispanic,Torrey Pines High School,BUS,BUS130,B,B,Yes,Awarded,6659,No,Not Applicable,No,No,No
+2022-2023,2024,Graduate,Female,Hispanic,Carlsbad High School,FILM,ART251,A,A,Yes,Awarded,5087,No,No,No,No,No
+2022-2023,2025,Graduate,Unknown/Unreported,Asian,Oceanside High School,MAT,ART251,A,B,Yes,Denied,6947,Yes,Not Applicable,No,No,No
+2020-2021,2021,Graduate,Male,Asian,Canyon Crest Academy,BUS,BUS120,A,B,Yes,Awarded,5076,No,No,No,No,No
+2021-2022,2022,Graduate,Male,Hispanic,Torrey Pines High School,CS,CS111,A,A,No,Awarded,4413,No,No,No,No,No
+2020-2021,2021,Graduate,Female,White,Torrey Pines High School,BUS,BUS120,B,A,Yes,Awarded,12773,No,No,No,No,No
+2021-2022,2022,Graduate,Unknown/Unreported,White,San Dieguito Academy,DESN,ART251,A,B,Yes,Awarded,12315,No,No,No,Not Applicable,No
+2020-2021,2022,Graduate,Male,Hispanic,Sage Creek High School,BUS,BUS120,A,A,Yes,Awarded,6299,No,Not Applicable,No,No,No
+2020-2021,2022,Graduate,Male,Hispanic,Carlsbad High School,CS,CS111,A,B,Yes,Denied,12893,No,No,No,No,No
+2020-2021,2024,Graduate,Female,Asian,Torrey Pines High School,AUTO,BUS130,A,A,Yes,Awarded,11480,No,Not Applicable,Yes,No,No
+2021-2022,2026,Graduate,Male,Black/African American,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Awarded,3554,Not Applicable,No,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,White,Canyon Crest Academy,HORT,DESN100,B,A,Yes,Awarded,9481,No,Yes,No,No,Not Applicable
+2022-2023,2025,Graduate,Male,White,Torrey Pines High School,BUS,BUS130,A,A,No,Awarded,11198,Not Applicable,Not Applicable,No,No,Not Applicable
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,ART,NURS151,B,B,Yes,Awarded,9829,Yes,No,Not Applicable,No,No
+2022-2023,2025,Graduate,Female,White,La Costa Canyon High School,BUS,BUS130,A,A,Yes,Awarded,12377,No,No,No,No,Not Applicable
+2022-2023,2024,Not Yet a Graduate,Male,White,Sage Creek High School,BUS,BUS130,B,A,Yes,Awarded,1610,No,Not Applicable,Not Applicable,Not Applicable,No
+2021-2022,2024,Graduate,Male,Asian,San Dieguito Academy,MAT,BUS130,A,A,Yes,Awarded,10353,No,No,No,No,No
+2021-2022,2024,Graduate,Female,White,Sage Creek High School,ART,BUS132,B,A,Yes,Awarded,9463,Yes,No,No,No,No
+2021-2022,2024,Graduate,Male,Asian,Oceanside High School,ART,HORT127,,,Yes,Awarded,11932,No,No,No,No,Not Applicable
+2021-2022,2024,Graduate,Female,White,San Dieguito Academy,BUS,BUS130,B,A,Yes,Denied,5023,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Unknown/Unreported,Asian,La Costa Canyon High School,BUS,BUS132,A,A,Yes,Awarded,10818,Not Applicable,Not Applicable,No,Not Applicable,No
+2020-2021,2023,Graduate,Female,Hispanic,La Costa Canyon High School,BUS,CS101,A,B,Yes,Awarded,1690,Yes,No,Not Applicable,No,No
+2020-2021,2023,Not Yet a Graduate,Male,Asian,Torrey Pines High School,BUS,MAT110,B,A,Yes,Awarded,12052,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Male,White,San Dieguito Academy,MAT,AUTO130,A,B,Yes,Awarded,3349,Not Applicable,No,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Male,Middle Eastern or North African,Oceanside High School,BUS,BUS120,A,B,No,Awarded,12231,No,No,Not Applicable,No,Not Applicable
+2022-2023,2020,Graduate,Male,White,Canyon Crest Academy,CS,ACCT158,A,A,Yes,Awarded,7510,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,Torrey Pines High School,ART,BUS132,A,D,Yes,Denied,12971,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Male,White,Torrey Pines High School,ACCT,BUS120,A,A,Yes,Denied,13254,Yes,No,No,No,Not Applicable
+2020-2021,2022,Graduate,Unknown/Unreported,Hispanic,Canyon Crest Academy,ART,NURS155,B,A,Yes,Awarded,1731,Not Applicable,No,No,No,No
+2022-2023,2024,Graduate,Male,White,Torrey Pines High School,BUS,ACCT158,A,A,Yes,Awarded,8417,No,No,Not Applicable,No,No
+2022-2023,2024,Graduate,Female,Black/African American,Carlsbad High School,BUS,ART251,B,A,Yes,Denied,13236,No,No,No,Yes,No
+2022-2023,2022,Graduate,Male,Two or More Races,Canyon Crest Academy,BUS,HORT127,A,A,Yes,Awarded,2210,No,No,No,No,No
+2022-2023,2025,Graduate,Female,Hispanic,Torrey Pines High School,AUTO,BUS130,A,A,Yes,Awarded,8604,Yes,Not Applicable,Not Applicable,No,Not Applicable
+2022-2023,2025,Graduate,Female,White,Torrey Pines High School,CS,BUS120,A,A,Yes,Awarded,7089,No,No,Not Applicable,No,Not Applicable
+2022-2023,2026,Graduate,Male,White,Canyon Crest Academy,ART,BUS130,A,A,Yes,Awarded,398,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2021,Graduate,Female,White,Sage Creek High School,ART,DESN100,B,A,Yes,Awarded,3089,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Male,White,Altus Schools,NURS,BUS130,C,A,Yes,Awarded,995,Not Applicable,No,No,Not Applicable,Not Applicable
+2020-2021,2022,Graduate,Female,Hispanic,La Costa Canyon High School,BUS,NURS151,A,A,Yes,Awarded,7440,Yes,No,Not Applicable,No,No
+2022-2023,2024,Graduate,Female,White,Canyon Crest Academy,MAP,KINE190,A,A,Yes,Awarded,4280,No,No,No,Not Applicable,Not Applicable
+2022-2023,2022,Graduate,Female,White,El Camino High School,KINE,MAP100,A,A,Yes,Denied,1051,No,No,Not Applicable,No,No
+2021-2022,2025,Graduate,Male,Hispanic,Canyon Crest Academy,BUS,BUS120,A,A,No,Denied,6878,No,Not Applicable,No,No,No
+2020-2021,2023,Graduate,Male,White,Torrey Pines High School,AUTO,ART251,A,A,No,Awarded,5766,No,No,No,No,No
+2021-2022,2023,Graduate,Male,Hispanic,Sage Creek High School,ACCT,BUS120,A,A,Yes,Awarded,6899,No,No,No,No,No
+2020-2021,2024,Not Yet a Graduate,Female,White,San Dieguito Academy,BUS,BUS132,A,A,Yes,Awarded,4828,Not Applicable,Not Applicable,Not Applicable,No,Not Applicable
+2020-2021,2023,Graduate,Female,White,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,1746,Not Applicable,No,No,No,Not Applicable
+2022-2023,2027,Not Yet a Graduate,Female,White,Torrey Pines High School,BUS,MAT110,A,A,Yes,Awarded,708,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Not Yet a Graduate,Male,White,Torrey Pines High School,BUS,BUS120,B,C,Yes,Awarded,8520,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2024,Graduate,Male,White,El Camino High School,ART,BUS132,A,,Yes,Awarded,12684,Yes,Not Applicable,No,No,No
+2022-2023,2023,Graduate,Male,Unknown/Unreported,Torrey Pines High School,NURS,NURS155,A,A,Yes,Awarded,11400,Yes,No,No,No,No
+2021-2022,2024,Graduate,Male,Asian,Sage Creek High School,BUS,ART251,A,A,Yes,Awarded,6651,Yes,Not Applicable,No,No,Not Applicable
+2021-2022,2024,Not Yet a Graduate,Female,Asian,El Camino High School,CS,CS111,A,B,Yes,Awarded,10884,No,No,No,No,No
+2021-2022,2024,Not Yet a Graduate,Female,White,Canyon Crest Academy,BUS,NURS151,A,,Yes,Denied,13254,Yes,Yes,Not Applicable,No,Not Applicable
+2021-2022,2024,Graduate,Unknown/Unreported,Two or More Races,Torrey Pines High School,NURS,BUS132,,A,Yes,Awarded,10708,Not Applicable,Not Applicable,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Hispanic,Torrey Pines High School,BUS,BUS120,A,A,Yes,Awarded,13189,Yes,Not Applicable,No,No,No
+2021-2022,2024,Not Yet a Graduate,Unknown/Unreported,Hispanic,Tri-City Christian School,BUS,ACCT158,A,A,Yes,Awarded,3279,Yes,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2022-2023,2026,Not Yet a Graduate,Unknown/Unreported,White,Canyon Crest Academy,MAP,DESN100,A,B,No,Awarded,13645,No,Not Applicable,No,No,Not Applicable
+2021-2022,2024,Graduate,Male,White,Sage Creek High School,BUS,BUS120,A,A,No,Awarded,11657,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Asian,Torrey Pines High School,BUS,BUS120,A,A,Yes,Denied,1797,No,No,Not Applicable,Not Applicable,No
+2022-2023,2024,Graduate,Female,Unknown/Unreported,Canyon Crest Academy,BUS,BUS120,A,A,No,Awarded,4163,No,No,No,No,No
+2021-2022,2024,Graduate,Male,Hispanic,La Costa Canyon High School,FILM,KINE190,A,B,Yes,Awarded,12353,Yes,Not Applicable,Not Applicable,No,No
+2021-2022,2025,Graduate,Female,White,Torrey Pines High School,BUS,BUS130,A,,No,Awarded,9558,Not Applicable,Not Applicable,Not Applicable,No,No
+2020-2021,2022,Graduate,Female,White,La Costa Canyon High School,ART,ART251,A,A,Yes,Awarded,10649,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Male,Unknown,Torrey Pines High School,BUS,BUS130,A,A,Yes,Awarded,5703,Yes,No,No,Not Applicable,Not Applicable
+2022-2023,2025,Not Yet a Graduate,Female,White,Oceanside High School,ACCT,BUS132,A,A,No,Denied,6901,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2021-2022,2024,Graduate,Male,White,Canyon Crest Academy,BUS,BUS132,A,A,Yes,Awarded,4998,No,No,No,No,No
+2022-2023,2026,Not Yet a Graduate,Female,Middle Eastern or North African,Torrey Pines High School,NURS,NURS151,A,C,Yes,Awarded,1635,Not Applicable,No,No,Not Applicable,Not Applicable
+2021-2022,2022,Graduate,Unknown/Unreported,Asian,Oceanside High School,NURS,ART251,F,A,No,Denied,684,No,Yes,No,No,No
+2022-2023,2023,Graduate,Male,Two or More Races,La Costa Canyon High School,BUS,BUS130,A,B,Yes,Denied,3501,No,No,No,No,No
+2020-2021,2023,Graduate,Male,White,La Costa Canyon High School,AUTO,AUTO130,A,A,Yes,Awarded,10619,No,No,Not Applicable,No,Not Applicable
+2021-2022,2024,Graduate,Male,Unknown/Unreported,Canyon Crest Academy,BUS,BUS130,A,A,Yes,Awarded,2561,No,No,No,No,No
+2020-2021,2024,Graduate,Female,Unknown,Mission Vista High School,BUS,AUTO102,A,A,Yes,Awarded,4064,No,Yes,No,No,No
+2021-2022,2023,Not Yet a Graduate,Female,Asian,Sage Creek High School,CS,ACCT158,,A,Yes,Awarded,6387,No,No,No,No,No
+2022-2023,2025,Not Yet a Graduate,Female,White,Oceanside High School,DESN,MAT125,A,C,Yes,Awarded,5116,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+2020-2021,2023,Graduate,Female,White,Tri-City Christian School,BUS,CS101,A,B,Yes,Awarded,12411,No,No,No,No,No
